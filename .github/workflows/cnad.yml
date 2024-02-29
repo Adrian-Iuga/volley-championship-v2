@@ -22,12 +22,6 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            - name: Upload .next folder
-              uses: actions/upload-artifact@v4
-              with:
-                name: dot_next_folder
-                path: .volley-championship-v2/
-
     web-deploy:
         name: 🎉 Deploy
         runs-on: ubuntu-latest
