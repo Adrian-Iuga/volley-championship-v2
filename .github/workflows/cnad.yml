@@ -36,12 +36,6 @@ jobs:
                 mkdir tmp && touch tmp/restart.txt 
                 echo $RANDOM > tmp/restart.txt
 
-            - name: download .next folder
-              uses: actions/download-artifact@v4
-              with:
-                name: dot_next_folder
-                path: .next
-
             - name: 📂 Sync files
               uses: SamKirkland/FTP-Deploy-Action@4.3.2
               with:
