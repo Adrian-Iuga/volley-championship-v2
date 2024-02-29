@@ -1,0 +1,63 @@
+<div class="row d-flex align-items-center mt-5 score-display">
+    <div class="col-3">
+        <p><%= day %></p>
+        <p><%= hour %></p>
+    </div>
+    <div class="col-5">
+        <div>
+            <img src="<%= logoTeam1 %>" alt="<%= team1%>">
+            <p><%= team1 %></p>
+        </div>
+        <hr>
+        <div>
+            <p><%= team2 %></p>
+            <img src="<%= logoTeam2 %>" alt="<%= team2%>">
+        </div>
+    </div>
+    <div class="col-1 col-1 pl-0 mr-1" style="max-width: none;">
+        <div class="generalScore">
+            <% generalSplitted=generalScore.split("-") %>
+            <div>
+                <p class="font-weight-bold"><%= generalSplitted[0] %></p>
+            </div>
+            <div>
+                <p class="font-weight-bold"><%= generalSplitted[1] %></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-1 px-0">
+        <div class="generalScore">
+            <% set1Splitted=set1.split("-") %>
+            <div>
+                <p><%= set1Splitted[0] %></p>
+            </div>
+            <div>
+                <p><%= set1Splitted[1] %></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-1 px-0">
+        <div class="generalScore">
+            <% set2Splitted=set2.split("-") %>
+            <div>
+                <p><%= set2Splitted[0] %></p>
+            </div>
+            <div>
+                <p><%= set2Splitted[1] %></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-1 px-0">
+        <div class="generalScore">
+            <% set3Splitted=set3.split("-") %>
+            <div>
+                <p><%= set3Splitted[0] %></p>
+            </div>
+            <div>
+                <p><%= set3Splitted[1] %></p>
+            </div>
+        </div>
+    </div>
+    <!-- <div class="col-1 px-0">
+    </div> -->
+</div>

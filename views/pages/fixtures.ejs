@@ -1,0 +1,122 @@
+<div class="row">
+    <div class="col-sm-12">
+        <h1 class="text-center mt-5">Rezultate</h1>
+        <% grupStage=score.grupStage %>
+        <% i=0 %>
+        <div class="row">
+            <% for(i=0; i<grupStage.length; i++) {%>
+                <% i=i %>
+                <% hour=grupStage[i].hour %>
+                <% day=grupStage[i].day %>
+                <% team1=grupStage[i].team1 %>
+                <% logoTeam1=grupStage[i].logoTeam1 %>
+                <% team2=grupStage[i].team2 %>
+                <% logoTeam2=grupStage[i].logoTeam2 %>
+                <% generalScore=grupStage[i].generalScore %>
+                <% set1=grupStage[i].set1 %>
+                <% set2=grupStage[i].set2 %>
+                <% set3=grupStage[i].set3 %>
+
+                <div class="col-sm-6 col-md-4 col-lg-3 text-center px-0">
+                    <%- include('fixture'); -%>
+                </div>
+            <% } %>
+        </div>
+    </div>
+
+    <div class="col-sm-12">
+        <h1 class="text-center mt-5">Sferturi</h1>
+        <% quarter=score.quarter %>
+        <% i=0 %>
+        <div class="row">
+            <% for(i=0; i<quarter.length; i++) {%>
+                <% i=i %>
+                <% hour=quarter[i].hour %>
+                <% day=quarter[i].day %>
+                <% team1=quarter[i].team1 %>
+                <% logoTeam1=quarter[i].logoTeam1 %>
+                <% team2=quarter[i].team2 %>
+                <% logoTeam2=quarter[i].logoTeam2 %>
+                <% generalScore=quarter[i].generalScore %>
+                <% set1=quarter[i].set1 %>
+                <% set2=quarter[i].set2 %>
+                <% set3=quarter[i].set3 %>
+
+                <div class="col-sm-6 col-md-4 col-lg-3 text-center px-0">
+                    <%- include('fixture'); -%>
+                </div>
+            <% } %>
+        </div>
+    </div>
+
+    <div class="col-sm-12">
+        <h1 class="text-center mt-5">Semifinale</h1>
+        <% semi=score.semi %>
+        <% i=0 %>
+        <div class="row">
+            <% for(i=0; i<semi.length; i++) {%>
+                <% i=i %>
+                <% hour=semi[i].hour %>
+                <% day=semi[i].day %>
+                <% team1=semi[i].team1 %>
+                <% logoTeam1=semi[i].logoTeam1 %>
+                <% team2=semi[i].team2 %>
+                <% logoTeam2=semi[i].logoTeam2 %>
+                <% generalScore=semi[i].generalScore %>
+                <% set1=semi[i].set1 %>
+                <% set2=semi[i].set2 %>
+                <% set3=semi[i].set3 %>
+
+                <div class="col-sm-6 text-center">
+                    <%- include('fixture'); -%>
+                </div>
+            <% } %>
+        </div>
+    </div>
+
+    <div class="col-sm-12">
+        <h1 class="text-center mt-5">Finala mică</h1>
+        <% lowerFinal=score.lowerFinal %>
+        <% i=0 %>
+        <div class="row">
+            <% i=i %>
+            <% hour=lowerFinal.hour %>
+            <% day=lowerFinal.day %>
+            <% team1=lowerFinal.team1 %>
+            <% logoTeam1=lowerFinal.logoTeam1 %>
+            <% team2=lowerFinal.team2 %>
+            <% logoTeam2=lowerFinal.logoTeam2 %>
+            <% generalScore=lowerFinal.generalScore %>
+            <% set1=lowerFinal.set1 %>
+            <% set2=lowerFinal.set2 %>
+            <% set3=lowerFinal.set3 %>
+
+            <div class="col-sm-12 text-center">
+                <%- include('fixture'); -%>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-12">
+        <h1 class="text-center mt-5">Finala mare</h1>
+        <% greatFinal=score.greatFinal %>
+        <% i=0 %>
+        <div class="row">
+            <% i=i %>
+            <% hour=greatFinal.hour %>
+            <% day=greatFinal.day %>
+            <% team1=greatFinal.team1 %>
+            <% logoTeam1=greatFinal.logoTeam1 %>
+            <% team2=greatFinal.team2 %>
+            <% logoTeam2=greatFinal.logoTeam2 %>
+            <% generalScore=greatFinal.generalScore %>
+            <% set1=greatFinal.set1 %>
+            <% set2=greatFinal.set2 %>
+            <% set3=greatFinal.set3 %>
+
+            <div class="col-sm-12 text-center">
+                <%- include('fixture'); -%>
+            </div>
+        </div>
+    </div>
+</div>

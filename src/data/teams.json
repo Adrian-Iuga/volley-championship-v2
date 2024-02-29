@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Betel Ipotești",
+        "church": "Betel Ipotești",
+        "logo": "img/teams-logo/Betel_Ipotesti.jpeg",
+        "players": [
+            {
+                "name": "Iatcu Claudiu"
+            },
+            {
+                "name": "Cozmei Miriam"
+            },
+            {
+                "name": "Costeniuc Alin"
+            },
+            {
+                "name": "Anton Clement"
+            },
+            {
+                "name": "Cozmei Lorena"
+            },
+            {
+                "name": "Bodnariuc Adiel"
+            }
+        ]
+    },
+    {
+        "name": "Flashback",
+        "church": "Filadelfia Suceava",
+        "logo": "img/teams-logo/Flashback.png",
+        "players": [
+            {
+                "name": "Hrincescu Ionut"
+            },
+            {
+                "name": "Hrincescu Matei"
+            },
+            {
+                "name": "Andronache Simone"
+            },
+            {
+                "name": "Smocot Teodora"
+            },
+            {
+                "name": "Chibici Cosmin"
+            },
+            {
+                "name": "Nistor Emi"
+            },
+            {
+                "name": "Paul Turturean"
+            }
+        ]
+    },
+    {
+        "name": "Spartans",
+        "church": "Filadelfia Suceava",
+        "logo": "img/teams-logo/Spartans.jpg",
+        "players": [
+            {
+                "name": "Ciubotari Natan"
+            },
+            {
+                "name": "Iuga Adrian"
+            },
+            {
+                "name": "Ciubotari Levi"
+            },
+            {
+                "name": "Cîrstean Ioel"
+            },
+            {
+                "name": "Magdici Paul"
+            },
+            {
+                "name": "Maciuc Debora"
+            },
+            {
+                "name": "Ciurciun Mattias"
+            }
+        ]
+    },
+    {
+        "name": "Saint Elijah",
+        "church": "Sfântul Ilie Suceava",
+        "logo": "img/teams-logo/SfIlie.png",
+        "players": [
+            {
+                "name": "Hutu Eduard"
+            },
+            {
+                "name": "Onofrei Vlad"
+            },
+            {
+                "name": "Rosca Fineas"
+            },
+            {
+                "name": "Havrestiuc Sami"
+            },
+            {
+                "name": "Iacob Doris"
+            },
+            {
+                "name": "Hutu Rebeca Erika"
+            },
+            {
+                "name": "Franciuc Ruben"
+            },
+            {
+                "name": "Rosca Enos"
+            }
+        ]
+    },
+    {
+        "name": "Samson's Biceps",
+        "church": "Filadelfia Suceava & Speranța Cluj",
+        "logo": "img/teams-logo/Samson.jpeg",
+        "players": [
+            {
+                "name": "Andronache Riccardo"
+            },
+            {
+                "name": "Turturean David"
+            },
+            {
+                "name": "Schul Jessica"
+            },
+            {
+                "name": "Danilet Ruben"
+            },
+            {
+                "name": "Bob Abel"
+            },
+            {
+                "name": "Antoniei Alex"
+            },
+            {
+                "name": "Ivan Liviu"
+            }
+        ]
+    }
+]

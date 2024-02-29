@@ -1,0 +1,27 @@
+<div id="teams mt-5">
+    <div class="row mt-5">
+    <% for(var i=0; i<teams.length; i++) {%>
+        <% name=teams[i].name %>
+        <% logo=teams[i].logo %>
+        <% church=teams[i].church %>
+        <% players=teams[i].players %>
+            <div class="col-sm-6 col-md-4 col-xl-3 mt-3">
+                <div class="team-informations text-center">
+                    <p class="font-weight-bold">
+                        <%= name%>(<%= church%>)
+                    </p>
+                    <img src="<%= logo%>" alt="<%= name%>">
+                </div>
+
+                <div class="players mt-4">
+                    <% for(var p=0; p<players.length; p++) {%>
+                            <% playerName=players[p].name %>
+                            <p>
+                                <%= p+1%>. <%= playerName%>
+                            </p>
+                    <% } %>
+                </div>
+            </div>
+    <% } %>
+    </div>
+</div>

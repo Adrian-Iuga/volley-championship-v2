@@ -1,0 +1,30 @@
+<div class="row mt-5">
+    <% ranking=score.ranking %>
+    <% for(var r=0; r<ranking.length; r++) {%>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+            <% title=ranking[r].title %>
+            <h2 class="text-center mb-3"><%= title%></h2>
+
+            <% teams=ranking[r].teams %>
+            <% for(var t=0; t<teams.length; t++) {%>
+                <% teamName=teams[t].team %>
+                <% points=teams[t].points %>
+
+                <div class="d-block">
+                    <div class="d-inline-flex w-100" style="position: relative;">
+                        <div class="ranking-team-name mx-auto" style="margin-left: 25%!important;">
+                            <p class="font-weight-bold">
+                                <%= t+1 %>. <%= teamName %>
+                            </p>
+                        </div>
+                        <div class="ranking-team-points" style="position: absolute; left: 75%;">
+                            <p class="font-weight-bold">
+                                <%= points %> p
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    <% } %>
+</div>

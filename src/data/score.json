@@ -1,0 +1,251 @@
+{
+    "simalateEmpty": "false",
+    "ranking": [
+        {
+            "title": "Grupa A",
+            "teams": [
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                },
+                {
+                    "team": "Spartans",
+                    "points": "0"
+                },
+                {
+                    "team": "Betel Ipotesti",
+                    "points": "0"
+                },
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "title": "Grupa B",
+            "teams": [
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                },
+                {
+                    "team": "Spartans",
+                    "points": "0"
+                },
+                {
+                    "team": "Betel Ipotesti",
+                    "points": "0"
+                },
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "title": "Grupa C",
+            "teams": [
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                },
+                {
+                    "team": "Spartans",
+                    "points": "0"
+                },
+                {
+                    "team": "Betel Ipotesti",
+                    "points": "0"
+                },
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "title": "Grupa D",
+            "teams": [
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                },
+                {
+                    "team": "Spartans",
+                    "points": "0"
+                },
+                {
+                    "team": "Betel Ipotesti",
+                    "points": "0"
+                },
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                }
+            ]
+        }
+    ],
+    "grupStage": [
+        {
+            "hour": "16:00",
+            "day": "vineri",
+            "team1": "Betel Ipotești",
+            "logoTeam1": "img/teams-logo/Betel_Ipotesti.jpeg",
+            "team2": "Samson's Biceps",
+            "logoTeam2": "img/teams-logo/Samson.jpeg",
+            "generalScore": "0 - 2",
+            "set1": "20 - 25",
+            "set2": "3 - 25",
+            "set3": ""
+        },
+        {
+            "hour": "17:00",
+            "day": "vineri",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "1 - 2",
+            "set1": "17 - 25",
+            "set2": "25 - 5",
+            "set3": "10- 25"
+        },
+        {
+            "hour": "17:00",
+            "day": "vineri",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "1 - 2",
+            "set1": "0 - 25",
+            "set2": "3 - 25",
+            "set3": "23-25"
+        },
+        {
+            "hour": "17:00",
+            "day": "vineri",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "1 - 2",
+            "set1": "11 - 25",
+            "set2": "22 - 25",
+            "set3": "23-25"
+        },
+        {
+            "hour": "17:00",
+            "day": "vineri",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "1 - 2",
+            "set1": "0 - 25",
+            "set2": "25 - 3",
+            "set3": "15 - 25"
+        }
+    ],
+    "quarter": [
+        {
+            "hour": "08:00",
+            "day": "sâmbătă",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "0 - 2",
+            "set1": "11 - 25",
+            "set2": "20 - 25",
+            "set3": "15 - 25"
+        },
+        {
+            "hour": "09:00",
+            "day": "sâmbătă",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "0 - 2",
+            "set1": "0 - 25",
+            "set2": "3 - 25",
+            "set3": ""
+        },
+        {
+            "hour": "09:00",
+            "day": "sâmbătă",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "0 - 2",
+            "set1": "0 - 25",
+            "set2": "3 - 25",
+            "set3": ""
+        },
+        {
+            "hour": "09:00",
+            "day": "sâmbătă",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "0 - 2",
+            "set1": "0 - 25",
+            "set2": "3 - 25",
+            "set3": ""
+        }
+    ],
+    "semi": [
+        {
+            "hour": "10:00",
+            "day": "sâmbătă",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "0 - 2",
+            "set1": "0 - 25",
+            "set2": "3 - 25",
+            "set3": ""
+        },
+        {
+            "hour": "11:00",
+            "day": "sâmbătă",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
+            "team2": "Spartans",
+            "logoTeam2": "img/teams-logo/Spartans.jpg",
+            "generalScore": "0 - 2",
+            "set1": "0 - 25",
+            "set2": "3 - 25",
+            "set3": ""
+        }
+    ],
+    "lowerFinal": {
+        "hour": "18:00",
+        "day": "sâmbătă",
+        "team1": "Flashback",
+        "logoTeam1": "img/teams-logo/Flashback.png",
+        "team2": "Spartans",
+        "logoTeam2": "img/teams-logo/Spartans.jpg",
+        "generalScore": "0 - 2",
+        "set1": "0 - 25",
+        "set2": "3 - 25",
+        "set3": ""
+    },
+    "greatFinal": {
+        "hour": "19:00",
+        "day": "sâmbătă",
+        "team1": "Flashback",
+        "logoTeam1": "img/teams-logo/Flashback.png",
+        "team2": "Spartans",
+        "logoTeam2": "img/teams-logo/Spartans.jpg",
+        "generalScore": "0 - 2",
+        "set1": "0 - 25",
+        "set2": "3 - 25",
+        "set3": ""
+    }
+}
