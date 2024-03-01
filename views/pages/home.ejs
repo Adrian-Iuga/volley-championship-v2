@@ -105,19 +105,26 @@
 
             <ul class="nav nav-pills mb-3 align-items-center justify-content-center" id="pills-tab" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link" id="teams-tab" data-toggle="pill" href="#teams" role="tab"
+                    <a class="nav-link active" id="teams-tab" data-toggle="pill" href="#teams" role="tab"
                         aria-controls="teams" aria-selected="true">Echipe</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" id="score-tab" data-toggle="pill" href="#score" role="tab"
+                    <a class="nav-link" id="schedule-tab" data-toggle="pill" href="#schedule" role="tab"
+                        aria-controls="schedule" aria-selected="true">Program</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" id="score-tab" data-toggle="pill" href="#score" role="tab"
                         aria-controls="score" aria-selected="false">Rezultate</a>
                 </li>
             </ul>
             <div class="tab-content" id="pills-tabContent">
-                <div class="tab-pane fade" id="teams" role="tabpanel" aria-labelledby="teams-tab">
+                <div class="tab-pane fade show active" id="teams" role="tabpanel" aria-labelledby="teams-tab">
                     <%- include('teams'); -%>
                 </div>
-                <div class="tab-pane fade show active" id="score" role="tabpanel" aria-labelledby="score-tab">
+                <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
+                    <%- include('schedule'); -%>
+                </div>
+                <div class="tab-pane fade" id="score" role="tabpanel" aria-labelledby="score-tab">
                     <%- include('score'); -%>
                 </div>
             </div>
