@@ -138,5 +138,30 @@
                 "name": "Ivan Liviu"
             }
         ]
+    },
+    {
+        "name": "No Name",
+        "church": "Filadelfia Suceava",
+        "logo": "img/teams-logo/NoName.jpg",
+        "players": [
+            {
+                "name": "Daniel Cretzu"
+            },
+            {
+                "name": "Aaaaliciu"
+            },
+            {
+                "name": "Cazzy"
+            },
+            {
+                "name": "Luciano"
+            },
+            {
+                "name": "Noe"
+            },
+            {
+                "name": "Misha"
+            }
+        ]
     }
 ]

@@ -1,3 +1,4 @@
 - modificat logo-uri ca sa aiba toate aceleasi dimensiuni + updatat logo Rick
-- auto deploy
 - sectiune sponsori
+- rectiune program
+
