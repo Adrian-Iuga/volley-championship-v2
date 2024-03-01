@@ -3,17 +3,27 @@
         <p><%= day %></p>
         <p><%= hour %></p>
     </div>
+    <% if(displayScore === true){ %>
     <div class="col-5">
+    <% } else{ %> 
+    <div class="col-8">
+    <% } %>
         <div>
+            <% if(logoTeam1){ %>
             <img src="<%= logoTeam1 %>" alt="<%= team1%>">
+            <% } %>
             <p><%= team1 %></p>
         </div>
         <hr>
         <div>
             <p><%= team2 %></p>
+            <% if(logoTeam2){ %>
             <img src="<%= logoTeam2 %>" alt="<%= team2%>">
+            <% } %>
         </div>
     </div>
+
+    <% if(displayScore === true){ %>
     <div class="col-1 col-1 pl-0 mr-1" style="max-width: none;">
         <div class="generalScore">
             <% generalSplitted=generalScore.split("-") %>
@@ -58,6 +68,5 @@
             </div>
         </div>
     </div>
-    <!-- <div class="col-1 px-0">
-    </div> -->
+    <% } %>
 </div>

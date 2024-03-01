@@ -1347,7 +1347,7 @@ footer {
   color: black;
 }
 
-#teams img, #score img{
+#teams img, #score img, #schedule img{
   width: 100px;
   border-radius: 50%;
 }
@@ -1357,7 +1357,7 @@ footer {
   margin: auto;
 }
 
-#teams p, #teams a{
+#teams p, #teams a, #schedule a{
   font-size: 18px;
 }
 
@@ -1367,7 +1367,7 @@ footer {
   writing-mode: tb-rl;
 }
 
-#score .score-display{
+#score .score-display, #schedule .score-display{
   max-width: 500px;
   margin: auto;
   flex-wrap: nowrap;
@@ -1375,4 +1375,13 @@ footer {
 
 #score .col-1{
   max-width: 19px;
+}
+
+.sponsors-list .sponsor {
+  width: 100%;
+  margin-top: 25px;
+}
+
+.sponsors-list .sponsor img {
+  width: 300px;
 }

@@ -1,4 +1,2 @@
 - modificat logo-uri ca sa aiba toate aceleasi dimensiuni
 - sectiune sponsori
-- rectiune program
-

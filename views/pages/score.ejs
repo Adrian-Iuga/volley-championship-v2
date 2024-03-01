@@ -1,9 +1,10 @@
-<div id="score mt-5">
+<div id="score" class="mt-5">
     <% if(score.simalateEmptyResults === "true"){ %>
         <p class="section-subtitle text-center">
             Rezultatele live vor apărea în zilele când competiția se va desfășura
         </p>
-      <% } else{ %>  
+      <% } else{ %>
+        <% displayScore=true %>
         <%- include('ranking'); -%>
         <%- include('fixtures'); -%>
      <% } %>
