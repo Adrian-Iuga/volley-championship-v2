@@ -1,5 +1,6 @@
 {
-    "simalateEmpty": "true",
+    "simalateEmptyResults": "true",
+    "simalateEmptySchedule": "true",
     "ranking": [
         {
             "title": "Grupa A",
