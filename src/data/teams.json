@@ -163,5 +163,33 @@
                 "name": "Misha"
             }
         ]
+    },
+    {
+        "name": "The Teachers",
+        "church": "Filadelfia Suceava",
+        "logo": "",
+        "players": [
+            {
+                "name": "Ciprian Sarban"
+            },
+            {
+                "name": "Virgil Larionescu"
+            },
+            {
+                "name": "Narcis Georgescu"
+            },
+            {
+                "name": "Albert Cirdei"
+            },
+            {
+                "name": "Marius Beltic"
+            },
+            {
+                "name": "Maria Zaharia"
+            },
+            {
+                "name": "Iulian Doichita"
+            }
+        ]
     }
 ]
