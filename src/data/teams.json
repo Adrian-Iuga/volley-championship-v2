@@ -140,6 +140,37 @@
         ]
     },
     {
+        "name": "Bethel Warriors",
+        "church": "Betel Rădăuți",
+        "logo": "img/teams-logo/Bethel.jpeg",
+        "players": [
+            {
+                "name": "Ilisoi Fineas"
+            },
+            {
+                "name": "Nicolaescu David"
+            },
+            {
+                "name": "Lupascu Eduard"
+            },
+            {
+                "name": "Sami Vlonga"
+            },
+            {
+                "name": "Noah Breana"
+            },
+            {
+                "name": "Buliga Sara"
+            },
+            {
+                "name": "Cusnir Alessia"
+            },
+            {
+                "name": "Avraam Alex"
+            }
+        ]
+    },
+    {
         "name": "No Name",
         "church": "Filadelfia Suceava",
         "logo": "img/teams-logo/NoName.jpg",
@@ -214,9 +245,59 @@
             },
             {
                 "name": "Daniel Potop"
+            }
+        ]
+    },
+    {
+        "name": "Spike for Hope",
+        "church": "Sfântul Ilie Suceava",
+        "logo": "img/teams-logo/Spike.png",
+        "players": [
+            {
+                "name": "Zetu Betuel"
             },
             {
-                "name": "Nasaudeanu Filip"
+                "name": "Lazăr Beny"
+            },
+            {
+                "name": "Pascan Bianca"
+            },
+            {
+                "name": "Ursulean Claudiu"
+            },
+            {
+                "name": "Prysakar Vladyslav"
+            },
+            {
+                "name": "Bilius Alexandru"
+            },
+            {
+                "name": "Croitor Denis"
+            }
+        ]
+    },
+    {
+        "name": "ODEM",
+        "church": "Oastea Domnului Marginea",
+        "logo": "img/teams-logo/ODEM.png",
+        "players": [
+            {
+                "name": "Strugariu Filip"
+            },
+            {
+                "name": "Potolinschi Matteo"
+            },
+            {
+                "name": "Potolinschi Elisa"
+            },
+            {
+                "name": "Potolinschi Denis"
+            },
+            {
+                "name": "Bodnarescu Alice"
+            },
+            {
+                "name": "Cojocariu Ghiță"
             }
         ]
     }
