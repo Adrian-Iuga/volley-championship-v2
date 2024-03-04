@@ -191,5 +191,33 @@
                 "name": "Iulian Doichita"
             }
         ]
+    },
+    {
+        "name": "Wave Crushers",
+        "church": "Filadelfia Suceava",
+        "logo": "img/teams-logo/Wave.png",
+        "players": [
+            {
+                "name": "Bodale Aryan"
+            },
+            {
+                "name": "Smocot Evelina"
+            },
+            {
+                "name": "Onofrei Jonathan"
+            },
+            {
+                "name": "Boiciuc Linus"
+            },
+            {
+                "name": "Roșioru Ștefan"
+            },
+            {
+                "name": "Daniel Potop"
+            },
+            {
+                "name": "Nasaudeanu Filip"
+            }
+        ]
     }
 ]
