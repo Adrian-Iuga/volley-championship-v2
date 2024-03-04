@@ -300,5 +300,30 @@
                 "name": "Cojocariu Ghiță"
             }
         ]
+    },
+    {
+        "name": "Karasuno",
+        "church": "Punct & Betel Dumbraveni",
+        "logo": "img/teams-logo/x.png",
+        "players": [
+            {
+                "name": "Palaghianu Florin"
+            },
+            {
+                "name": "Onucu Marius"
+            },
+            {
+                "name": "Vladeanu Timo"
+            },
+            {
+                "name": "Popinciuc Edoardo"
+            },
+            {
+                "name": "Filip Loredana"
+            },
+            {
+                "name": "Andronache Nicu"
+            }
+        ]
     }
 ]
