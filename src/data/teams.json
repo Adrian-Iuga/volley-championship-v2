@@ -325,5 +325,101 @@
                 "name": "Andronache Nicu"
             }
         ]
+    },
+    {
+        "name": "Eternal Flames",
+        "church": "Sfânta Treime & Maranata",
+        "logo": "img/teams-logo/Eternal.jpeg",
+        "players": [
+            {
+                "name": "Cîrdei Alin"
+            },
+            {
+                "name": "Simion Davide"
+            },
+            {
+                "name": "Bahnean Ciprian"
+            },
+            {
+                "name": "Lucescu Paul"
+            },
+            {
+                "name": "Chelba Emanuel"
+            },
+            {
+                "name": "Niculcea Francesca"
+            },
+            {
+                "name": "Ursulean Luis"
+            },
+            {
+                "name": "Bahnean Călin"
+            }
+        ]
+    },
+    {
+        "name": "Living Stone",
+        "church": "Filadelfia & Speranța Suceava",
+        "logo": "img/teams-logo/LivingStone.jpg",
+        "players": [
+            {
+                "name": "Solcan Sergiu"
+            },
+            {
+                "name": "Ureche Daniel"
+            },
+            {
+                "name": "Lavinia Maciuc"
+            },
+            {
+                "name": "Duduman Marcus"
+            },
+            {
+                "name": "Dascălu Samuel"
+            },
+            {
+                "name": "Țurcan Dorin"
+            },
+            {
+                "name": "Istrate Claudiu"
+            },
+            {
+                "name": "Mateo Dascăln"
+            },
+            {
+                "name": "Devid Dascăln"
+            }
+        ]
+    },
+    {
+        "name": "Bullet Team",
+        "church": "Ipotesti",
+        "logo": "img/teams-logo/Bullet.jpg",
+        "players": [
+            {
+                "name": "Chibici Filip"
+            },
+            {
+                "name": "Horbaniuc Daniele"
+            },
+            {
+                "name": "Hreniuc Sebi"
+            },
+            {
+                "name": "Cosovan Daniela"
+            },
+            {
+                "name": "Tcaciuc Luci"
+            },
+            {
+                "name": "Hostiuc Levi"
+            },
+            {
+                "name": "Hostiuc Alex"
+            },
+            {
+                "name": "Regus Sami"
+            }
+        ]
     }
 ]
