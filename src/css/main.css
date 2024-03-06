@@ -1385,3 +1385,13 @@ footer {
 .sponsors-list .sponsor img {
   width: 300px;
 }
+
+#progresso-img{
+  width: 500px;
+}
+
+@media (min-width: 0px) and (max-width: 450px) {
+  #progresso-img{
+    width: 300px;
+  }
+}
