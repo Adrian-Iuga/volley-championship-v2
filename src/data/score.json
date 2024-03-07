@@ -1,24 +1,87 @@
 {
-    "simalateEmptySchedule": "true",
+    "simalateEmptySchedule": "false",
     "simalateEmptyResults": "true",
     "ranking": [
         {
             "title": "Grupa A",
             "teams": [
                 {
-                    "team": "GR A E1",
+                    "team": "The Teachers",
                     "points": "0"
                 },
                 {
-                    "team": "GR A E2",
+                    "team": "Betel Ipotești",
                     "points": "0"
                 },
                 {
-                    "team": "GR A E3",
+                    "team": "No Name",
                     "points": "0"
                 },
                 {
-                    "team": "GR A E4",
+                    "team": "ODEM",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "title": "Grupa B",
+            "teams": [
+                {
+                    "team": "Saint Elijah",
+                    "points": "0"
+                },
+                {
+                    "team": "Spartans",
+                    "points": "0"
+                },
+                {
+                    "team": "Eternal Flames",
+                    "points": "0"
+                },
+                {
+                    "team": "Karasuno",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "title": "Grupa C",
+            "teams": [
+                {
+                    "team": "Spike for Hope",
+                    "points": "0"
+                },
+                {
+                    "team": "Bullet Team",
+                    "points": "0"
+                },
+                {
+                    "team": "Living Stone",
+                    "points": "0"
+                },
+                {
+                    "team": "Samson's Biceps",
+                    "points": "0"
+                }
+            ]
+        },
+        {
+            "title": "Grupa D",
+            "teams": [
+                {
+                    "team": "Flashback",
+                    "points": "0"
+                },
+                {
+                    "team": "Holy hits different",
+                    "points": "0"
+                },
+                {
+                    "team": "Bethel Warriors",
+                    "points": "0"
+                },
+                {
+                    "team": "Wave Crushers",
                     "points": "0"
                 }
             ]
