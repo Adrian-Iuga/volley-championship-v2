@@ -421,5 +421,30 @@
                 "name": "Regus Sami"
             }
         ]
+    },
+    {
+        "name": "Holy hits different",
+        "church": "Elim Scheia",
+        "logo": "img/teams-logo/Holy.jpg",
+        "players": [
+            {
+                "name": "Ciubotariu Ruben"
+            },
+            {
+                "name": "Ciubotariu Naomi"
+            },
+            {
+                "name": "Pojoga Patrick"
+            },
+            {
+                "name": "Rosca Samuel"
+            },
+            {
+                "name": "Leonte Beniamin"
+            },
+            {
+                "name": "Rotariu Ruben"
+            }
+        ]
     }
 ]
