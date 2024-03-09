@@ -4,14 +4,17 @@
             Programul va fi afișat după tragerea la sorț
         </p>
       <% } else{ %>
-        <!-- <p class="section-subtitle text-center">
+        <p class="section-subtitle text-center">
           Având în vedere că unele meciuri pot avea două sau trei seturi, programul este estimativ!
-        </p> -->
+        </p>
+        <p class="section-subtitle text-center">
+          Meciurile din grupe vor avea seturi până la 15 iar meciurile din fazele eliminatorii până la 25
+        </p>
         <p class="section-subtitle text-center">
           În sferturi, primele două echipe clasate din grupele A & C vor juca cu primele două echipe clasate din grupele B & D
         </p>
         <% displayScore=false %>
         <%- include('ranking'); -%>
-        <!-- <%- include('fixtures'); -%> -->
+        <%- include('fixtures'); -%>
      <% } %>
 </div>
