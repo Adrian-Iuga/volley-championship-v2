@@ -11,13 +11,14 @@
                     "points": "6"
                 },
                 {
+                    "team": "Betel Ipotești",
+                    "points": "6"
+                },
+                {
                     "team": "No Name",
                     "points": "3"
                 },
-                {
-                    "team": "Betel Ipotești",
-                    "points": "3"
-                },
+               
                 
 
                 {
@@ -209,10 +210,10 @@
             "logoTeam1": "img/teams-logo/NoName.jpg",
             "team2": "Betel Ipotești",
             "logoTeam2": "img/teams-logo/Betel_Ipotesti.jpeg",
-            "generalScore": "1-1",
+            "generalScore": "1-2",
             "set1": "9-15",
             "set2": "15-13",
-            "set3": "-"
+            "set3": "8-15"
         },
         {
             "hour": "21:20",
