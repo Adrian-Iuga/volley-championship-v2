@@ -30,7 +30,7 @@
             "teams": [
                 {
                     "team": "Saint Elijah",
-                    "points": "0"
+                    "points": "3"
                 },
                 {
                     "team": "Spartans",
@@ -157,10 +157,10 @@
             "logoTeam1": "img/teams-logo/SfIlie.png",
             "team2": "Spartans",
             "logoTeam2": "img/teams-logo/Spartans.jpg",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "12-15",
             "set2": "15-8",
-            "set3": "-"
+            "set3": "15-9"
         },
         {
             "hour": "19:00",
