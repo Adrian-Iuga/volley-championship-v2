@@ -31,7 +31,7 @@
                 
                 {
                     "team": "Saint Elijah",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "Spartans",
@@ -168,9 +168,9 @@
             "logoTeam1": "img/teams-logo/SfIlie.png",
             "team2": "Eternal Flames",
             "logoTeam2": "img/teams-logo/Eternal.jpeg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-8",
-            "set2": "-",
+            "set2": "15-7",
             "set3": "-"
         },
         {
