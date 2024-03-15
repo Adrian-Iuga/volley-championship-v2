@@ -80,7 +80,7 @@
                 },
                 {
                     "team": "Bethel Warriors",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "Wave Crushers",
@@ -145,9 +145,9 @@
             "logoTeam1": "img/teams-logo/Bethel.jpeg",
             "team2": "Wave Crushers",
             "logoTeam2": "img/teams-logo/Wave.png",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-8",
-            "set2": "-",
+            "set2": "15-12",
             "set3": "-"
         },
         {
