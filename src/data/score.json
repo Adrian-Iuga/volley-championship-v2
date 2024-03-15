@@ -17,7 +17,7 @@
                 
                 {
                     "team": "No Name",
-                    "points": "0"
+                    "points": "3"
                 },
                 {
                     "team": "ODEM",
@@ -184,9 +184,9 @@
             "logoTeam1": "img/teams-logo/NoName.jpg",
             "team2": "ODEM",
             "logoTeam2": "img/teams-logo/ODEM_v2.jpg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-4",
-            "set2": "-",
+            "set2": "15-5",
             "set3": "-"
         },
         {
