@@ -1,3 +1,1 @@
 Mentenanta
-- sectiune sponsori: updatat sponsori daca mai sunt de updatat
-- modificat logo-uri ca sa aiba toate aceleasi dimensiuni
