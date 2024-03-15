@@ -5,14 +5,16 @@
         {
             "title": "Grupa A",
             "teams": [
+
+                {
+                    "team": "The Teachers",
+                    "points": "3"
+                },
                 {
                     "team": "Betel Ipotești",
                     "points": "0"
                 },
-                {
-                    "team": "The Teachers",
-                    "points": "0"
-                },
+                
                 {
                     "team": "No Name",
                     "points": "0"
