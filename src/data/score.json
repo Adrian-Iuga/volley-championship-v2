@@ -36,6 +36,10 @@
                     "points": "6"
                 },
                 {
+                    "team": "Eternal Flames",
+                    "points": "3"
+                },
+                {
                     "team": "Spartans",
                     "points": "0"
                 },
@@ -43,11 +47,8 @@
                 {
                     "team": "Karasuno",
                     "points": "0"
-                },
-                {
-                    "team": "Eternal Flames",
-                    "points": "3"
                 }
+            
             ]
         },
         {
