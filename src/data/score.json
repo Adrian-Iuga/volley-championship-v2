@@ -28,6 +28,12 @@
         {
             "title": "Grupa B",
             "teams": [
+
+
+                {
+                    "team": "Eternal Flames",
+                    "points": "0"
+                },
                 {
                     "team": "Saint Elijah",
                     "points": "3"
@@ -36,10 +42,7 @@
                     "team": "Spartans",
                     "points": "0"
                 },
-                {
-                    "team": "Eternal Flames",
-                    "points": "0"
-                },
+                
                 {
                     "team": "Karasuno",
                     "points": "0"
