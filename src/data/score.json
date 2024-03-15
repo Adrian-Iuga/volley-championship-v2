@@ -6,11 +6,11 @@
             "title": "Grupa A",
             "teams": [
                 {
-                    "team": "The Teachers",
+                    "team": "Betel Ipotești",
                     "points": "0"
                 },
                 {
-                    "team": "Betel Ipotești",
+                    "team": "The Teachers",
                     "points": "0"
                 },
                 {
@@ -96,7 +96,7 @@
             "team2": "Betel Ipotești",
             "logoTeam2": "img/teams-logo/Betel_Ipotesti.jpeg",
             "generalScore": "-",
-            "set1": "-",
+            "set1": "15-13",
             "set2": "-",
             "set3": "-"
         },
