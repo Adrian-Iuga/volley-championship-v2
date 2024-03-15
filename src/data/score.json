@@ -45,7 +45,7 @@
                 {
                     "team": "Eternal Flames",
                     "points": "0"
-                },
+                }
             ]
         },
         {
@@ -170,7 +170,7 @@
             "day": "vineri",
             "team1": "Saint Elijah",
             "logoTeam1": "img/teams-logo/SfIlie.png",
-            "team2": "Eternal Flames",
+            "team2": "Eternal Flames",
             "logoTeam2": "img/teams-logo/Eternal.jpeg",
             "generalScore": "2-0",
             "set1": "15-8",
