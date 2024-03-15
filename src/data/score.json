@@ -28,12 +28,7 @@
         {
             "title": "Grupa B",
             "teams": [
-
-
-                {
-                    "team": "Eternal Flames",
-                    "points": "0"
-                },
+                
                 {
                     "team": "Saint Elijah",
                     "points": "3"
@@ -74,6 +69,10 @@
             "title": "Grupa D",
             "teams": [
                 {
+                    "team": "Bethel Warriors",
+                    "points": "6"
+                },
+                {
                     "team": "Flashback",
                     "points": "3"
                 },
@@ -81,10 +80,7 @@
                     "team": "Holy Hits Different",
                     "points": "0"
                 },
-                {
-                    "team": "Bethel Warriors",
-                    "points": "6"
-                },
+                
                 {
                     "team": "Wave Crushers",
                     "points": "0"
