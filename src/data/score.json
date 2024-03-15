@@ -8,7 +8,7 @@
 
                 {
                     "team": "The Teachers",
-                    "points": "6"
+                    "points": "9"
                 },
                 {
                     "team": "Betel Ipotești",
@@ -222,10 +222,10 @@
             "logoTeam1": "img/teams-logo/Teachers.jpg",
             "team2": "No Name",
             "logoTeam2": "img/teams-logo/NoName.jpg",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "15-13",
             "set2": "17-19",
-            "set3": "-"
+            "set3": "15-12"
         },
         {
             "hour": "21:55",
