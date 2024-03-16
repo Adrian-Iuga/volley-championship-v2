@@ -59,17 +59,19 @@
                     "points": "6"
                 },
                 {
+                    "team": "Samson's Biceps",
+                    "points": "3"
+                },
+                {
                     "team": "Bullet Team",
                     "points": "0"
                 },
+                
                 {
                     "team": "Living Stone",
                     "points": "0"
-                },
-                {
-                    "team": "Samson's Biceps",
-                    "points": "0"
                 }
+               
             ]
         },
         {
@@ -295,9 +297,9 @@
             "logoTeam1": "img/teams-logo/Samson.png",
             "team2": "Living Stone",
             "logoTeam2": "img/teams-logo/LivingStone.jpg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-10",
-            "set2": "-",
+            "set2": "15-9",
             "set3": "-"
         },
         {
