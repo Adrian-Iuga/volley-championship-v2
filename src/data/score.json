@@ -60,7 +60,7 @@
                 },
                 {
                     "team": "Samson's Biceps",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "Bullet Team",
@@ -333,9 +333,9 @@
             "logoTeam1": "img/teams-logo/Bullet.jpg",
             "team2": "Samson's Biceps",
             "logoTeam2": "img/teams-logo/Samson.png",
-            "generalScore": "0-1",
+            "generalScore": "0-2",
             "set1": "10-15",
-            "set2": "-",
+            "set2": "6-15",
             "set3": "-"
         },
         {
