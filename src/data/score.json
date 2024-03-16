@@ -64,7 +64,7 @@
                 },
                 {
                     "team": "Bullet Team",
-                    "points": "0"
+                    "points": "3"
                 },
                 
                 {
@@ -321,9 +321,9 @@
             "logoTeam1": "img/teams-logo/Bullet.jpg",
             "team2": "Living Stone",
             "logoTeam2": "img/teams-logo/LivingStone.jpg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-10",
-            "set2": "-",
+            "set2": "15-7",
             "set3": "-"
         },
         {
