@@ -75,11 +75,11 @@
             "title": "Grupa D",
             "teams": [
                 {
-                    "team": "Bethel Warriors",
-                    "points": "6"
+                    "team": "Flashback",
+                    "points": "9"
                 },
                 {
-                    "team": "Flashback",
+                    "team": "Bethel Warriors",
                     "points": "6"
                 },
                 {
@@ -414,8 +414,8 @@
             "day": "sâmbătă",
             "team1": "Spike for Hope",
             "logoTeam1": "img/teams-logo/Spike.png",
-            "team2": "Locul 2 grupa D",
-            "logoTeam2": "",
+            "team2": "Bethel Warriors",
+            "logoTeam2": "img/teams-logo/Bethel.jpeg",
             "generalScore": "-",
             "set1": "-",
             "set2": "-",
@@ -424,8 +424,8 @@
         {
             "hour": "17:00",
             "day": "sâmbătă",
-            "team1": "Locul 1 grupa D",
-            "logoTeam1": "",
+            "team1": "Flashback",
+            "logoTeam1": "img/teams-logo/Flashback.png",
             "team2": "Samson's Biceps",
             "logoTeam2": "img/teams-logo/Samson.png",
             "generalScore": "-",
