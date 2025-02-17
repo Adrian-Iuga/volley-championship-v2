@@ -803,6 +803,16 @@ button:focus {
   bottom: -120px;
 }
 
+#competitionDetails .last-year {
+  width: 300px;
+  display: block;
+  margin: auto;
+}
+
+#competitionDetails .last-year img {
+  width: 500px;
+}
+
 /* ==========================================================================
   7. Video promo Style
    ========================================================================== */
