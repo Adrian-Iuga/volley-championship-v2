@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Betel Ipotești",
+        "church": "Betel Ipotești",
+        "logo": "img/teams-logo/Betel_Ipotesti.jpeg",
+        "players": [
+            {
+                "name": "Iatcu Claudiu"
+            },
+            {
+                "name": "Cozmei Miriam"
+            },
+            {
+                "name": "Costeniuc Alin"
+            },
+            {
+                "name": "David Serban"
+            },
+            {
+                "name": "Ionuț Luncașu"
+            },
+            {
+                "name": "Gojan Mihai"
+            }
+        ]
+    }
+]
