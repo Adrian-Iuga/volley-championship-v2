@@ -418,11 +418,13 @@ button:focus {
    3. Hero Area
    ========================================================================== */
 #hero-area {
-  background: url(../img/afis_volei_landscape-v3.jpg) fixed no-repeat;
-  background-size: cover;
+  background: url(../img/background.jpeg) fixed no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
   color: #fff;
   overflow: hidden;
   position: relative;
+  height: 750px;
 }
 
 #hero-area .overlay {
@@ -480,6 +482,22 @@ button:focus {
   color: #61D2B4;
 }
 
+
+@media (max-width: 768px) {
+  #hero-area {
+    background-size: contain;
+    height: auto;
+  }
+}
+
+@media (max-width: 425px) {
+  #hero-area {
+    background-size: contain;
+    background-position: 0% 5%;
+    height: auto;
+  }
+}
+
 /* ==========================================================================
    4. Navbar Style
    ========================================================================== */
@@ -526,7 +544,7 @@ button:focus {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  color: #fff;
+  color: #000000;
   padding: 0 22px;
   margin-top: 20px;
   margin-bottom: 20px;
