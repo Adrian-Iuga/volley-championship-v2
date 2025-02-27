@@ -1340,6 +1340,7 @@ footer {
 }
 
 #hero-area .contents .scrollNextPage {
+  display: none;
   position: absolute;
   bottom: 15px;
   left: 0;
