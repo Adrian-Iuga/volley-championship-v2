@@ -12,6 +12,7 @@ const getAll = async () => {
     //     });
     
     data.signupForm = "https://docs.google.com/forms/d/e/1FAIpQLScR9SBeleAmDDbybIEzpbTnkjxCcBI6Gs3x_n31C1EPABL5wg/viewform?usp=header";
+    data.revolut = "https://revolut.me/adrian3fe"
     data.teams = require('../data/teams.json');
     data.score = require('../data/score.json');
 
