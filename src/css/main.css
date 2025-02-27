@@ -822,13 +822,14 @@ button:focus {
 }
 
 #competitionDetails .last-year {
-  width: 300px;
+  width: auto;
+  max-width: 750px;
   display: block;
   margin: auto;
 }
 
 #competitionDetails .last-year img {
-  width: 500px;
+  max-width: 750px;
 }
 
 /* ==========================================================================
