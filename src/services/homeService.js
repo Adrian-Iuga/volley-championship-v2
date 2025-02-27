@@ -11,7 +11,7 @@ const getAll = async () => {
     //         console.log(error);
     //     });
     
-    data.signupForm = "https://docs.google.com/forms/d/e/1FAIpQLSeH2Ux1YiuAFFdMWATV1r2P00c0K4simgl-5p74Y33TjDPhfg/viewform";
+    data.signupForm = "https://docs.google.com/forms/d/e/1FAIpQLScR9SBeleAmDDbybIEzpbTnkjxCcBI6Gs3x_n31C1EPABL5wg/viewform?usp=header";
     data.teams = require('../data/teams.json');
     data.score = require('../data/score.json');
 

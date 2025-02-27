@@ -11,6 +11,10 @@
         }
     });
 
+    $(document).ready(function(){
+      $('.last-year').slick();
+    });
+
     /* 
    One Page Navigation & wow js
    ========================================================================== */
