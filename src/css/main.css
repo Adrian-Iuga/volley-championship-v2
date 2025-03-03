@@ -473,7 +473,7 @@ button:focus {
    3. Hero Area
    ========================================================================== */
 #hero-area {
-  background: url(../img/background.jpeg) fixed no-repeat;
+  background: url(../img/background.jpeg) fixed repeat;
   background-size: contain;
   background-attachment: fixed;
   color: #fff;
@@ -822,7 +822,7 @@ button:focus {
 }
 
 #competitionDetails .last-year {
-  width: auto;
+  width: 90%;
   max-width: 750px;
   display: block;
   margin: auto;
