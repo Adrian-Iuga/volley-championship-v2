@@ -1,27 +1,431 @@
 [
     {
-        "name": "Betel Ipotești",
-        "church": "Betel Ipotești",
-        "logo": "img/teams-logo/Betel_Ipotesti.jpeg",
+        "name": "Holysmashers",
+        "logo": "img/teams-logo/HolySmashers.jpeg",
         "players": [
             {
-                "name": "Iatcu Claudiu"
+                "name": "Fabian Havristiuc"
+            },
+            {
+                "name": "Sami Havristiuc"
+            },
+            {
+                "name": "Timotei Vladeanu"
+            },
+            {
+                "name": "Ruben Ciubotariu"
+            },
+            {
+                "name": "Regus Andrei"
+            },
+            {
+                "name": "Naomi Ciubotariu"
+            },
+            {
+                "name": "Mathias Bucsa"
+            }
+        ]
+    },
+    {
+        "name": "ODEM",
+        "logo": "img/teams-logo/OdemV1.png",
+        "players": [
+            {
+                "name": "Strugariu Filip"
+            },
+            {
+                "name": "Ilisoi Sebi"
+            },
+            {
+                "name": "Potolinschi Matteo"
+            },
+            {
+                "name": "Curesciuc David"
+            },
+            {
+                "name": "Pomohaci Nicoleta"
+            },
+            {
+                "name": "Potolinschi Denis"
+            }
+        ]
+    },
+    {
+        "name": "The Flood",
+        "logo": "img/teams-logo/Flood.png",
+        "players": [
+            {
+                "name": "Vlonga Samuel"
+            },
+            {
+                "name": "Alex Avram"
+            },
+            {
+                "name": "Alin Cirdei"
+            },
+            {
+                "name": "Breana Noah"
+            },
+            {
+                "name": "Cusnir Alessia"
+            },
+            {
+                "name": "Bahnean Ciprian"
+            },
+            {
+                "name": "Lascu Paul"
+            }
+        ]
+    },
+    {
+        "name": "Vestea Bună Vaslui",
+        "logo": "img/teams-logo/vesteabuna.png",
+        "players": [
+            {
+                "name": "Benchea Robert"
+            },
+            {
+                "name": "Benchea Laura"
+            },
+            {
+                "name": "Ciobanu Francisc"
+            },
+            {
+                "name": "Ciobanu Ingrid"
+            },
+            {
+                "name": "Profire Marius"
+            },
+            {
+                "name": "Tofan Daniel"
+            },
+            {
+                "name": "Dumitrascuta Dragos"
+            }
+        ]
+    },
+    {
+        "name": "Saint Elijah",
+        "logo": "img/teams-logo/SfIlie.png",
+        "players": [
+            {
+                "name": "Hutu Eduard"
+            },
+            {
+                "name": "Croitor Denis"
+            },
+            {
+                "name": "Onofrei Vlad"
+            },
+            {
+                "name": "Rosca Enos"
+            },
+            {
+                "name": "Rosca Fineas"
+            },
+            {
+                "name": "Iacob Doris"
+            },
+            {
+                "name": "Franciuc Ruben"
+            },
+            {
+                "name": "Hutu Rebeca"
+            }
+        ]
+    },
+    {
+        "name": "Liderii",
+        "logo": "img/teams-logo/liderii.png",
+        "players": [
+            {
+                "name": "Iuga Adrian"
+            },
+            {
+                "name": "Ciubotari Natan"
+            },
+            {
+                "name": "Ivan Liviu"
+            },
+            {
+                "name": "Magdici Paul"
+            },
+            {
+                "name": "Magdici Monica"
+            },
+            {
+                "name": "Cernisov Ruben"
+            },
+            {
+                "name": "Magdici Stefan"
+            }
+        ]
+    },
+    {
+        "name": "Flashback",
+        "logo": "img/teams-logo/Flashback.png",
+        "players": [
+            {
+                "name": "Hrincescu Ionut"
+            },
+            {
+                "name": "Hrincescu Matei"
+            },
+            {
+                "name": "Smocot Teodora"
+            },
+            {
+                "name": "Ciurciun Mathias"
+            },
+            {
+                "name": "Turturean Paul"
+            },
+            {
+                "name": "Prysakar Vladyslav"
+            },
+            {
+                "name": "Chibici Paul"
+            },
+            {
+                "name": "Chibici Cosmin"
+            }
+        ]
+    },
+    {
+        "name": "Encore",
+        "logo": "img/teams-logo/encore.png",
+        "players": [
+            {
+                "name": "Ureche Daniel"
+            },
+            {
+                "name": "Dany Potop"
+            },
+            {
+                "name": "Dany Roman"
+            },
+            {
+                "name": "Adriana Galbici"
+            },
+            {
+                "name": "Daniel Cocârlă"
+            },
+            {
+                "name": "Daniel Solcan (Sergiu)"
+            }
+        ]
+    },
+    {
+        "name": "The Teachers",
+        "logo": "img/teams-logo/TheTeacher.png",
+        "players": [
+            {
+                "name": "Șarban Ciprian"
+            },
+            {
+                "name": "Georgescu Narcis"
+            },
+            {
+                "name": "Albert Cîrdei"
+            },
+            {
+                "name": "Larionescu Virgil"
+            },
+            {
+                "name": "Alex Ciobara"
+            },
+            {
+                "name": "Mark Georgescu"
+            },
+            {
+                "name": "Zaharia Maria"
             },
             {
                 "name": "Cozmei Miriam"
+            }
+        ]
+    },
+    {
+        "name": "Moses' Staff",
+        "logo": "img/teams-logo/Moses.png",
+        "players": [
+            {
+                "name": "Ilisoi Fineas"
             },
             {
-                "name": "Costeniuc Alin"
+                "name": "Lupascu Eduard"
             },
             {
-                "name": "David Serban"
+                "name": "Ilisoi Darius"
             },
             {
-                "name": "Ionuț Luncașu"
+                "name": "Chelba Emanuel"
             },
             {
-                "name": "Gojan Mihai"
+                "name": "Bahnean Calin"
+            },
+            {
+                "name": "Niculcea Francesca"
+            }
+        ]
+    },
+    {
+        "name": "ELIORA",
+        "logo": "img/teams-logo/Eliora.jpg",
+        "players": [
+            {
+                "name": "Bursuc Oliviu"
+            },
+            {
+                "name": "Cazac Gessica"
+            },
+            {
+                "name": "Nistor Emi"
+            },
+            {
+                "name": "Cîmpan Abel"
+            },
+            {
+                "name": "Lefter Rareş"
+            },
+            {
+                "name": "Bursuc Emi"
+            },
+            {
+                "name": "Alex Popescu"
+            }
+        ]
+    },
+    {
+        "name": "Samson’s Biceps",
+        "logo": "img/teams-logo/Samson.png",
+        "players": [
+            {
+                "name": "Bob Abel-Timotei"
+            },
+            {
+                "name": "Andrei Chira "
+            },
+            {
+                "name": "David Barac"
+            },
+            {
+                "name": "Aitonean Alex"
+            },
+            {
+                "name": "David Miron"
+            },
+            {
+                "name": "Schul Josephine Michelle"
+            },
+            {
+                "name": "David Turturean"
+            }
+        ]
+    },
+    {
+        "name": "Cât de cât",
+        "logo": "img/teams-logo/Catdecat.png",
+        "players": [
+            {
+                "name": "Lazăr Beni"
+            },
+            {
+                "name": "Nichifor Teddy"
+            },
+            {
+                "name": "Leonaș Saray"
+            },
+            {
+                "name": "Turturean Claudiu"
+            },
+            {
+                "name": "Ursulean Claudiu"
+            },
+            {
+                "name": "Bilius Alexandru"
+            }
+        ]
+    },
+    {
+        "name": "Barracuda",
+        "logo": "img/teams-logo/baracuda.png",
+        "players": [
+            {
+                "name": "Onucu Marius"
+            },
+            {
+                "name": "Grigoruță Emanuele"
+            },
+            {
+                "name": "Grigoruță Miriam"
+            },
+            {
+                "name": "Chițan Emanuele"
+            },
+            {
+                "name": "⁠⁠Vițelaru Emanuel"
+            },
+            {
+                "name": "Țurcanu Alessio"
+            },
+            {
+                "name": "Horbaniuc Daniele"
+            }
+        ]
+    },
+    {
+        "name": "NoName",
+        "logo": "img/teams-logo/NoName.jpg",
+        "players": [
+            {
+                "name": "Tofan Alex"
+            },
+            {
+                "name": "Gafencu Ciprian"
+            },
+            {
+                "name": "Alexei Bogdan"
+            },
+            {
+                "name": "Emi Maciuc"
+            },
+            {
+                "name": "⁠Levi Hostiuc "
+            },
+            {
+                "name": "Debora Maciuc"
+            }
+        ]
+    },
+    {
+        "name": "Mariteia Mica",
+        "logo": "img/teams-logo/MaretiaMica.png",
+        "players": [
+            {
+                "name": "Catalin Pura"
+            },
+            {
+                "name": "Sorin Mangalagiu"
+            },
+            {
+                "name": "Ruben Perju"
+            },
+            {
+                "name": "Lucian Marianciuc"
+            },
+            {
+                "name": "David Cojocariu"
+            },
+            {
+                "name": "Elias Serban"
+            },
+            {
+                "name": "Elina Serban"
             }
         ]
     }
+    
+
+
 ]

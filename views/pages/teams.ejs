@@ -3,12 +3,11 @@
     <% for(var i=0; i<teams.length; i++) {%>
         <% name=teams[i].name %>
         <% logo=teams[i].logo %>
-        <% church=teams[i].church %>
         <% players=teams[i].players %>
             <div class="col-sm-6 col-md-4 col-xl-3 mt-3">
                 <div class="team-informations text-center">
                     <p class="font-weight-bold">
-                        <%= name%>(<%= church%>)
+                        <%= name%>
                     </p>
                     <img src="<%= logo%>" alt="<%= name%>">
                 </div>
