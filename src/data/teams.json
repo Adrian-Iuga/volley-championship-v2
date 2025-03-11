@@ -138,7 +138,7 @@
         ]
     },
     {
-        "name": "Liderii",
+        "name": "Pioneers",
         "logo": "img/teams-logo/liderii.png",
         "players": [
             {
@@ -164,6 +164,9 @@
             },
             {
                 "name": "Andronache Riccardo"
+            },
+            {
+                "name": "Magdici Ioana"
             }
         ]
     },
