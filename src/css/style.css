@@ -11920,3 +11920,57 @@ a {
 .img-responsive {
 	width: 100%;
 }
+
+/* General label styling */
+.progress-label {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	color: #333;
+	display: flex;
+	align-items: center;
+	gap: 10px; /* Adds some spacing between elements */
+	width: 100%;
+  }
+  
+  /* Styling the progress bar */
+  .progress-bar {
+	width: 200px; /* Width of the progress bar */
+	height: 20px; /* Height of the progress bar */
+	appearance: none; /* Remove default browser styling */
+	border-radius: 10px;
+	background: #e0e0e0; /* Light gray background */
+	overflow: hidden;
+	flex-grow: 1; /* Makes the progress bar take up available space */
+  }
+  
+  /* Progress bar value styling */
+  .progress-bar::-webkit-progress-bar {
+	background: #e0e0e0;
+  }
+  
+  .progress-bar::-webkit-progress-value {
+	background: #4caf50; /* Green color for progress */
+	border-radius: 10px;
+  }
+  
+  .progress-bar::-moz-progress-bar {
+	background: #4caf50;
+	border-radius: 10px;
+  }
+  
+  /* Styling the percentage text next to the progress */
+  .progress-text {
+	font-weight: bold;
+	color: #4caf50; /* Matching the color of the progress bar */
+	font-size: 18px;
+  }
+
+  .progress-label {
+
+}
+
+#progressPercentage {
+	min-width: 40px; /* Ensures it has enough space */
+	text-align: right;
+}
+  

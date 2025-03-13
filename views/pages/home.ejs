@@ -150,6 +150,33 @@
                 <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;"> Participați la competiția noastră pentru a sprijini educația copiilor din Uganda! 🏃‍♂️📚</p>
                 <p class="section-subtitle">Suntem încântați să anunțăm o competiție de strângere de fonduri, organizată cu scopul de a susține copiii din Uganda să meargă la școală. Evenimentul este coordonat de Florin Milici și Asociația BBBMinistriesOfUganda.</p>
                 <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;">Toate fondurile colectate vor fi folosite pentru a le oferi copiilor din Uganda acces la educație, contribuind astfel la un viitor mai bun pentru ei și comunitățile lor. Fiecare donație, oricât de mică, contează și face o diferență! Alătură-te nouă și ajută-ne să schimbăm viețile acestor copii. Împreună putem crea un viitor mai luminos! 🌟</p>
+                <p class="section-subtitle">Obiectivul nostru este să susținem 20 de copii timp de un an la școală</p>
+                <label class="progress-label">
+                    <progress class="progress-bar" id="progressBar" value="4" max="20"></progress>
+                    <span id="progressPercentage" class="progress-text"></span>
+                    <br>
+                </label>
+                <span class="progress-text" id="progressText">4 copii vor fi susținuți în școală</span>
+                
+                <script>
+                    function updateProgress() {
+                        const progressBar = document.getElementById('progressBar');
+                        const progressPercentage = document.getElementById('progressPercentage');
+                        
+                        // Get the current value and the max value of the progress bar
+                        const value = progressBar.value;
+                        const max = progressBar.max;
+                        
+                        // Calculate the percentage
+                        const percentage = (value / max) * 100;
+                        
+                        // Update the progress text with the percentage
+                        progressPercentage.textContent = `${percentage.toFixed(0)}%`;
+                    }
+                
+                    // Call the function to update the text on page load
+                    updateProgress();
+                </script>
                 <p class="section-subtitle">Indiferent dacă ești un jucător de volei experimentat sau abia la început,
                     te invităm să ni te alături la Turneul Spike for a Cause: Christian Charity Volleyball. Împreună vom
                     crea amintiri durabile, vom construi noi prietenii și vom avea un impact pozitiv asupra comunității
