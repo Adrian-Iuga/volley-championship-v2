@@ -5,6 +5,17 @@
         <div class="row">
             <% for(i=0; i<grupStage.length; i++) {%>
                 <% i=i %>
+                <% if(i === 0){ %>
+                    <div class="col-sm-12 mt-5">
+                        <h3 class="text-center mt-5 mb-5">Joi</h3>
+                    </div>
+                <% } %>
+        
+                <% if(i === 12){ %>
+                    <div class="col-sm-12 mt-5">
+                        <h3 class="text-center mt-5 mb-5">Vineri</h3>
+                    </div>
+                <% } %>
                 <% hour=grupStage[i].hour %>
                 <% day=grupStage[i].day %>
                 <% team1=grupStage[i].team1 %>
