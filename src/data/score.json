@@ -19,7 +19,7 @@
                     "points": "0"
                 },               
                 {
-                    "team": "Vestea Buna Vaslui",
+                    "team": "VB Vaslui",
                     "points": "0"
                 }
             ]
@@ -252,7 +252,7 @@
         {
             "hour": "17:35",
             "day": "vineri",
-            "team1": "Vestea Bună Vaslui",
+            "team1": "VB Vaslui",
             "logoTeam1": "img/teams-logo/vesteabuna.png",
             "team2": "Mărițeia Mică",
             "logoTeam2": "img/teams-logo/MaretiaMica.png",
@@ -290,7 +290,7 @@
             "day": "vineri",
             "team1": "Saint Elijah",
             "logoTeam1": "img/teams-logo/SfIlie.png",
-            "team2": "Vestea Buna Vaslui",
+            "team2": "VB Vaslui",
             "logoTeam2": "img/teams-logo/vesteabuna.png",
             "generalScore": "-",
             "set1": "-",
@@ -348,7 +348,7 @@
         {
             "hour": "22:15",
             "day": "vineri",
-            "team1": "Vestea Bună Vaslui",
+            "team1": "VB Vaslui",
             "logoTeam1": "img/teams-logo/vesteabuna.png",
             "team2": "ODEM",
             "logoTeam2": "img/teams-logo/OdemV1.png",
