@@ -384,11 +384,11 @@
     ],
     "quarter": [
         {
-            "hour": "14:00",
+            "hour": "10:00",
             "day": "sâmbătă",
             "team1": "",
             "logoTeam1": "img/teams-logo/TBD.png",
-            "team2": "Eternal Flames",
+            "team2": "",
             "logoTeam2": "img/teams-logo/TBD.png",
             "generalScore": "-",
             "set1": "-",
@@ -396,11 +396,11 @@
             "set3": "-"
         },
         {
-            "hour": "15:00",
+            "hour": "11:00",
             "day": "sâmbătă",
-            "team1": "Saint Elijah",
+            "team1": "",
             "logoTeam1": "img/teams-logo/TBD.png",
-            "team2": "Betel Ipotești",
+            "team2": "",
             "logoTeam2": "img/teams-logo/TBD.png",
             "generalScore": "-",
             "set1": "-",
@@ -408,11 +408,11 @@
             "set3": "-"
         },
         {
-            "hour": "16:00",
+            "hour": "12:00",
             "day": "sâmbătă",
-            "team1": "Spike for Hope",
+            "team1": "",
             "logoTeam1": "img/teams-logo/TBD.png",
-            "team2": "Bethel Warriors",
+            "team2": "",
             "logoTeam2": "img/teams-logo/TBD.png",
             "generalScore": "-",
             "set1": "-",
@@ -420,11 +420,11 @@
             "set3": "-"
         },
         {
-            "hour": "17:00",
+            "hour": "13:00",
             "day": "sâmbătă",
-            "team1": "Flashback",
+            "team1": "",
             "logoTeam1": "img/teams-logo/TBD.png",
-            "team2": "Samson's Biceps",
+            "team2": "",
             "logoTeam2": "img/teams-logo/TBD.png",
             "generalScore": "-",
             "set1": "-",
@@ -434,11 +434,11 @@
     ],
     "semi": [
         {
-            "hour": "18:00",
+            "hour": "14:00",
             "day": "sâmbătă",
-            "team1": "The Teachers",
+            "team1": "",
             "logoTeam1": "img/teams-logo/TBD.png",
-            "team2": "Saint Elijah",
+            "team2": "",
             "logoTeam2": "img/teams-logo/TBD.png",
             "generalScore": "-",
             "set1": "-",
@@ -446,11 +446,11 @@
             "set3": "-"
         },
         {
-            "hour": "19:00",
+            "hour": "15:00",
             "day": "sâmbătă",
-            "team1": "Spike for Hope",
+            "team1": "",
             "logoTeam1": "img/teams-logo/TBD.png",
-            "team2": "Samson's Biceps",
+            "team2": "",
             "logoTeam2": "img/teams-logo/TBD.png",
             "generalScore": "-",
             "set1": "-",
@@ -459,11 +459,11 @@
         }
     ],
     "lowerFinal": {
-        "hour": "20:00",
+        "hour": "17:00",
         "day": "sâmbătă",
-        "team1": "The Teachers",
+        "team1": "",
         "logoTeam1": "img/teams-logo/TBD.png",
-        "team2": "Spike for Hope",
+        "team2": "",
         "logoTeam2": "img/teams-logo/TBD.png",
         "generalScore": "-",
         "set1": "-",
@@ -471,7 +471,7 @@
         "set3": "-"
     },
     "greatFinal": {
-        "hour": "21:00",
+        "hour": "19:00",
         "day": "sâmbătă",
         "team1": "",
         "logoTeam1": "img/teams-logo/TBD.png",
