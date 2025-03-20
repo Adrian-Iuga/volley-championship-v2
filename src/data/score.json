@@ -61,7 +61,7 @@
                 
                 {
                     "team": "Barracuda",
-                    "points": "0"
+                    "points": "3"
                 },
                 {
                     "team": "Encore",
@@ -232,9 +232,9 @@
             "logoTeam1": "img/teams-logo/encore.png",
             "team2": "Barracuda",
             "logoTeam2": "img/teams-logo/baracuda.png",
-            "generalScore": "-",
-            "set1": "-",
-            "set2": "-",
+            "generalScore": "0-2",
+            "set1": "10-15",
+            "set2": "12-15",
             "set3": "-"
         },
         {
