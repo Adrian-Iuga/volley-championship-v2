@@ -50,6 +50,10 @@
             "title": "Grupa C",
             "teams": [
                 {
+                    "team": "Holysmashers",
+                    "points": "3"
+                },
+                {
                     "team": "The Teachers",
                     "points": "0"
                 },
@@ -57,11 +61,6 @@
                     "team": "Barracuda",
                     "points": "0"
                 },
-                {
-                    "team": "Holysmashers",
-                    "points": "0"
-                },
-                
                 {
                     "team": "Encore",
                     "points": "0"
@@ -100,9 +99,9 @@
             "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
             "team2": "Barracuda",
             "logoTeam2": "img/teams-logo/baracuda.png",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-11",
-            "set2": "-",
+            "set2": "15-10",
             "set3": "-"
         },
         {
