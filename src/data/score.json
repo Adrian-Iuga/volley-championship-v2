@@ -77,7 +77,7 @@
                 },
                 {
                     "team": "Eliora",
-                    "points": "3"
+                    "points": "6"
                 },
                 
                 {
@@ -171,9 +171,9 @@
             "logoTeam1": "img/teams-logo/Pioneers.png",
             "team2": "Eliora",
             "logoTeam2": "img/teams-logo/Eliora.jpg",
-            "generalScore": "0-1",
-            "set1": "-",
-            "set2": "-",
+            "generalScore": "0-2",
+            "set1": "9-15",
+            "set2": "7-15",
             "set3": "-"
         },
         {
