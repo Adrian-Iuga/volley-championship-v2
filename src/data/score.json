@@ -82,8 +82,7 @@
                 {
                     "team": "No Name",
                     "points": "0"
-                },
-                
+                },                
                 {
                     "team": "Pioneers",
                     "points": "0"
@@ -147,8 +146,8 @@
             "logoTeam1": "img/teams-logo/baracuda.png",
             "team2": "The Teachers",
             "logoTeam2": "img/teams-logo/TheTeacher.png",
-            "generalScore": "-",
-            "set1": "-",
+            "generalScore": "0-1",
+            "set1": "14-16",
             "set2": "-",
             "set3": "-"
         },
