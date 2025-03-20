@@ -72,13 +72,14 @@
             "title": "Grupa D",
             "teams": [
                 {
+                    "team": "Flashback",
+                    "points": "6"
+                },
+                {
                     "team": "Eliora",
                     "points": "3"
                 },
-                {
-                    "team": "Flashback",
-                    "points": "3"
-                },
+                
                 {
                     "team": "No Name",
                     "points": "0"
@@ -158,10 +159,10 @@
             "logoTeam1": "img/teams-logo/Flashback.png",
             "team2": "No Name",
             "logoTeam2": "img/teams-logo/NoName.jpg",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "15-11",
             "set2": "14-16",
-            "set3": "-"
+            "set3": "15-7"
         },
         {
             "hour": "20:30",
