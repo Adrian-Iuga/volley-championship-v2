@@ -55,7 +55,7 @@
                 },
                 {
                     "team": "Barracuda",
-                    "points": "3"
+                    "points": "0"
                 },
                 {
                     "team": "Holysmashers",
@@ -100,10 +100,10 @@
             "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
             "team2": "Barracuda",
             "logoTeam2": "img/teams-logo/baracuda.png",
-            "generalScore": "2-1",
-            "set1": "15-11",
-            "set2": "10-15",
-            "set3": "15-11"
+            "generalScore": "-",
+            "set1": "-",
+            "set2": "-",
+            "set3": "-"
         },
         {
             "hour": "17:35",
