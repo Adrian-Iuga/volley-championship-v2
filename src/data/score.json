@@ -55,7 +55,7 @@
                 },
                 {
                     "team": "The Teachers",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "Barracuda",
@@ -176,17 +176,17 @@
             "set2": "7-15",
             "set3": "-"
         },
-        {
+        {x
             "hour": "21:05",
             "day": "joi",
             "team1": "The Teachers",
             "logoTeam1": "img/teams-logo/TheTeacher.png",
             "team2": "Holysmashers",
             "logoTeam2": "img/teams-logo/HolySmashers.jpeg",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "15-11",
             "set2": "9-15",
-            "set3": "-"
+            "set3": "15-11"
         },
         {
             "hour": "21:40",
