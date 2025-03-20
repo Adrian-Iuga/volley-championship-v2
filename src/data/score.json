@@ -81,15 +81,16 @@
                     "team": "Eliora",
                     "points": "6"
                 },
+                {
+                    "team": "Pioneers",
+                    "points": "3"
+                }
                 
                 {
                     "team": "No Name",
                     "points": "0"
                 },                
-                {
-                    "team": "Pioneers",
-                    "points": "0"
-                }
+                
             ]
         }
     ],
@@ -221,10 +222,10 @@
             "logoTeam1": "img/teams-logo/Pioneers.png",
             "team2": "No Name",
             "logoTeam2": "img/teams-logo/NoName.jpg",
-            "generalScore": "-",
-            "set1": "-",
-            "set2": "-",
-            "set3": "-"
+            "generalScore": "2-1",
+            "set1": "15-12",
+            "set2": "15-13",
+            "set3": "15-9"
         },
         {
             "hour": "23:25",
