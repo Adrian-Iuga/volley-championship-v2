@@ -30,7 +30,7 @@
             "teams": [
                 {
                     "team": "Samson's Biceps",
-                    "points": "6"
+                    "points": "9"
                 },
                 {
                     "team": "The Flood",
@@ -365,9 +365,9 @@
             "logoTeam1": "img/teams-logo/Samson.png",
             "team2": "The Flood",
             "logoTeam2": "img/teams-logo/Flood.png",
-            "generalScore": "-",
-            "set1": "-",
-            "set2": "-",
+            "generalScore": "2-0",
+            "set1": "15-12",
+            "set2": "15-13",
             "set3": "-"
         },
         {
