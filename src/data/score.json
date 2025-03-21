@@ -5,13 +5,12 @@
         {
             "title": "Grupa A",
             "teams": [
-
-                {
-                    "team": "Saint Elijah",
-                    "points": "6"
+                 {
+                    "team": "VB Vaslui",
+                    "points": "9"
                 },
                 {
-                    "team": "VB Vaslui",
+                    "team": "Saint Elijah",
                     "points": "6"
                 },
                 {
@@ -354,9 +353,9 @@
             "logoTeam1": "img/teams-logo/vesteabuna.png",
             "team2": "ODEM",
             "logoTeam2": "img/teams-logo/OdemV1.png",
-            "generalScore": "-",
-            "set1": "-",
-            "set2": "-",
+            "generalScore": "2-0",
+            "set1": "15-6",
+            "set2": "15-10",
             "set3": "-"
         },
         {
