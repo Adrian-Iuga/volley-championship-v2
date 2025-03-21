@@ -34,7 +34,7 @@
                 },
                 {
                     "team": "The Flood",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "Cât de cât",
@@ -329,9 +329,9 @@
             "logoTeam1": "img/teams-logo/Flood.png",
             "team2": "Cât de cât",
             "logoTeam2": "img/teams-logo/Catdecat.png",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-13",
-            "set2": "-",
+            "set2": "15-11",
             "set3": "-"
         },
         {
