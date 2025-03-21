@@ -11,17 +11,18 @@
                     "points": "3"
                 },
                 {
+                    "team": "VB Vaslui",
+                    "points": "3"
+                },
+                {
                     "team": "ODEM",
                     "points": "0"
                 },
                 {
                     "team": "Mărițeia Mică",
                     "points": "0"
-                },               
-                {
-                    "team": "VB Vaslui",
-                    "points": "0"
-                }
+                }               
+          
             ]
         },
         {
@@ -256,9 +257,9 @@
             "logoTeam1": "img/teams-logo/vesteabuna.png",
             "team2": "Mărițeia Mică",
             "logoTeam2": "img/teams-logo/MaretiaMica.png",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-5",
-            "set2": "-",
+            "set2": "15-10",
             "set3": "-"
         },
         {
