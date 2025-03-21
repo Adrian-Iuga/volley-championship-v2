@@ -8,20 +8,21 @@
 
                 {
                     "team": "Saint Elijah",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "VB Vaslui",
                     "points": "6"
                 },
                 {
-                    "team": "ODEM",
-                    "points": "0"
-                },
-                {
                     "team": "Mărițeia Mică",
                     "points": "3"
-                }               
+                },
+                {
+                    "team": "ODEM",
+                    "points": "0"
+                }
+                               
           
             ]
         },
@@ -341,9 +342,9 @@
             "logoTeam1": "img/teams-logo/SfIlie.png",
             "team2": "Mărițeia Mică",
             "logoTeam2": "img/teams-logo/MaretiaMica.png",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-12",
-            "set2": "-",
+            "set2": "15-9",
             "set3": "-"
         },
         {
