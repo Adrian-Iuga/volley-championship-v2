@@ -462,8 +462,8 @@
     "lowerFinal": {
         "hour": "17:00",
         "day": "sâmbătă",
-        "team1": "",
-        "logoTeam1": "img/teams-logo/TBD.png",
+        "team1": "The Flood",
+        "logoTeam1": "img/teams-logo/Flood.png",
         "team2": "",
         "logoTeam2": "img/teams-logo/TBD.png",
         "generalScore": "-",
@@ -474,8 +474,8 @@
     "greatFinal": {
         "hour": "19:00",
         "day": "sâmbătă",
-        "team1": "",
-        "logoTeam1": "img/teams-logo/TBD.png",
+        "team1": "Saint Elijah",
+        "logoTeam1": "img/teams-logo/SfIlie.png",
         "team2": "",
         "logoTeam2": "img/teams-logo/TBD.png",
         "generalScore": "-",
