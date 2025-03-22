@@ -11,7 +11,7 @@
                 },
                 {
                     "team": "Saint Elijah",
-                    "points": "9"
+                    "points": "6"
                 },
                 {
                     "team": "Mărițeia Mică",
@@ -403,9 +403,9 @@
             "logoTeam1": "img/teams-logo/Flashback.png",
             "team2": "The Flood",
             "logoTeam2": "img/teams-logo/Flood.png",
-            "generalScore": "0-1",
+            "generalScore": "0-2",
             "set1": "23-25",
-            "set2": "-",
+            "set2": "13-25",
             "set3": "-"
         },
         {
