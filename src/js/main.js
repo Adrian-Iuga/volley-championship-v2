@@ -41,6 +41,10 @@
             }
         });
 
+        $('html, body').animate({
+          scrollTop: $('#quarters').offset().top - 75
+      }, 600);
+
     });
 
     // Slick Nav 
