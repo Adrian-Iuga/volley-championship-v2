@@ -42,7 +42,7 @@
         });
 
         $('html, body').animate({
-          scrollTop: $('#quarters').offset().top - 75
+          scrollTop: $('#semi').offset().top - 75
       }, 600);
 
     });
