@@ -111,11 +111,11 @@
 
             <ul class="nav nav-pills mb-3 align-items-center justify-content-center" id="pills-tab" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link" id="teams-tab" data-toggle="pill" href="#teams" role="tab"
+                    <a class="nav-link active" id="teams-tab" data-toggle="pill" href="#teams" role="tab"
                         aria-controls="teams" aria-selected="true">Echipe</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" id="schedule-tab" data-toggle="pill" href="#schedule" role="tab"
+                    <a class="nav-link" id="schedule-tab" data-toggle="pill" href="#schedule" role="tab"
                         aria-controls="schedule" aria-selected="true">Program</a>
                 </li>
                 <!-- <li class="nav-item">
@@ -124,10 +124,10 @@
                 </li> -->
             </ul>
             <div class="tab-content" id="pills-tabContent">
-                <div class="tab-pane fade" id="teams" role="tabpanel" aria-labelledby="teams-tab">
+                <div class="tab-pane fade show active" id="teams" role="tabpanel" aria-labelledby="teams-tab">
                     <%- include('teams'); -%>
                 </div>
-                <div class="tab-pane fade show active" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
+                <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
                     <%- include('schedule'); -%>
                 </div>
                 <!-- <div class="tab-pane fade" id="score" role="tabpanel" aria-labelledby="score-tab">
@@ -145,18 +145,18 @@
                 <h2 class="section-title">Despre cauză</h2>
                 <hr class="lines">
                 <p class="section-subtitle">🏆Despre ce este această competiție? 🏆</p>
-                <p class="section-subtitle">Ne-am gândit cum putem să aducem împreună membrii din comunitatea evanghelică
-                    pentru a lega relații și pentru a face un bine.</p>
-                <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;"> Participați la competiția noastră pentru a sprijini educația copiilor din Uganda! 🏃‍♂️📚</p>
-                <p class="section-subtitle">Suntem încântați să anunțăm o competiție de strângere de fonduri, organizată cu scopul de a susține copiii din Uganda să meargă la școală. Evenimentul este coordonat de Florin Milici și Asociația BBBMinistriesOfUganda.</p>
-                <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;">Toate fondurile colectate vor fi folosite pentru a le oferi copiilor din Uganda acces la educație, contribuind astfel la un viitor mai bun pentru ei și comunitățile lor. Fiecare donație, oricât de mică, contează și face o diferență! Alătură-te nouă și ajută-ne să schimbăm viețile acestor copii. Împreună putem crea un viitor mai luminos! 🌟</p>
-                <p class="section-subtitle">Obiectivul nostru este să susținem 20 de copii timp de un an la școală</p>
+                <p class="section-subtitle">Ne-am gândit cum putem aduce împreună membrii comunității evanghelice pentru a construi relații și a face un bine în comunitate.</p>
+                <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;">De aceea, vă prezentăm o inițiativă de strângere de fonduri destinată susținerii Centrului de Transformare Comunitară din Barishal, Bangladesh. 🏃‍♂️🌍</p>
+                <p class="section-subtitle">Centrul oferă cursuri de croitorie pentru femei, programe educaționale de grădiniță, cursuri de limbă engleză și de informatică, fiind o punte de speranță pentru o comunitate care trece prin greutăți greu de imaginat.</p>
+                <p class="section-subtitle">Pentru a funcționa optim, Centrul are nevoie lunară de aproximativ 1500 de euro care acoperă: chiria spațiilor, utilități, salarii pentru educatori, materiale didactice și gustări pentru copiii de la grădiniță.</p>
+                <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;">Fiecare donație obținută prin intermediul acestei competiții va contribui direct la transformarea vieților a sute de persoane din comunitate. Participați la Turneul Spike for a Cause și ajutați-ne să schimbăm viețile acestor oameni. Împreună putem crea un viitor mai luminos! 🌟</p>
+                <p class="section-subtitle">Obiectivul nostru este să strângem fondurile necesare pentru a susține funcționarea lunară a Centrului.</p>
                 <label class="progress-label">
-                    <progress class="progress-bar" id="progressBar" value="4" max="20"></progress>
+                    <progress class="progress-bar" id="progressBar" value="4" max="100"></progress>
                     <span id="progressPercentage" class="progress-text"></span>
                     <br>
                 </label>
-                <span class="progress-text" id="progressText">4 copii vor fi susținuți în școală</span>
+                <span class="progress-text" id="progressText">Progres strângere fonduri - Centrul de Transformare Comunitară Berishal, Bangladesh</span>
                 
                 <script>
                     function updateProgress() {
@@ -179,8 +179,8 @@
                 </script>
                 <p class="section-subtitle">Indiferent dacă ești un jucător de volei experimentat sau abia la început,
                     te invităm să ni te alături la Turneul Spike for a Cause: Christian Charity Volleyball. Împreună vom
-                    crea amintiri durabile, vom construi noi prietenii și vom avea un impact pozitiv asupra comunității
-                    noastre.</p>
+                    crea amintiri durabile, vom construi noi prietenii și vom contribui la o cauză care transformă viețile
+                    a sute de oameni din Bangladesh.</p>
                 <p class="section-subtitle" style="font-weight: 800; color: #61D2B4;">Toate rezultatele echipei tale favorite vor fi postate in timp real pe această platformă!</p>
             </div>
 
@@ -244,7 +244,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">Program competiție</p>
-                    <p>Campionatul va avea loc joi, vineri și sâmbătă(20 - 22 Martie 2025)</p>
+                    <p>Campionatul va avea loc joi, vineri și sâmbătă(26 - 28 Martie 2026)</p>
                   </div>
                 </div>
               </article>
@@ -256,7 +256,7 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">Implică-te activ</p>
-                    <p>Toate donațiile vor merge către <span class="font-weight-bold">susținerea unui copil din Uganda la școală</span> <br> Dacă ai pe inimă această lucrare, te invit să: </p> 
+                    <p>Toate donațiile vor merge către <span class="font-weight-bold">susținerea Centrului de Transformare Comunitară din Berishal, Bangladesh</span> <br> Dacă ai pe inimă această lucrare, te invit să: </p> 
                     <ul style="list-style-type: disc; font-size: 14px;">
                         <li style="list-style: disc; display: list-item;">Îți susții echipa favorită pe durata competiției achitând taxa de vizitator (20 de lei)</li>
                         <li style="list-style: disc; display: list-item;">Doneazi direct la campionat pentru cauză</li>
@@ -272,14 +272,14 @@
                   </div>
                   <div class="unit-body">
                     <p class="blurb__title heading-6">CONTURI</p>
-                        REVOLUT: 
+                        <!-- REVOLUT: 
                         <a target="_blank" href="<%= revolut %>" style="color: #61D2B4"> revolut.me/adrian3fe </a>
-                        <p style="margin-top: 5px;">MENȚIUNEA: Uganda</p>
+                        <p style="margin-top: 5px;">MENȚIUNEA: Bangladesh</p> -->
 
-                        <hr>
+                        <!-- <hr> -->
                         <p>Nume: Biserica Filadelfia Suceava</p>
                         <p style="font-weight: bold; margin-top: 5px;">CONT BANCAR: RO10RNCB0234036994500001</p>
-                        <p style="margin-top: 5px;">MENȚIUNEA: Uganda</p>
+                        <p style="margin-top: 5px;">MENȚIUNEA: Bangladesh</p>
                   </div>
                 </div>
               </article>
@@ -326,8 +326,8 @@
                             </a>
                         </div>
                         <div class="sponsor col-12 col-sm-6">
-                            <a href="https://pavistor.ro" target="_blank">
-                                <img src="img/sponsors/pavi.png" alt="Pavistor">
+                            <a href="https://www.zireto.ro" target="_blank">
+                                <img src="img/sponsors/zireto.png" alt="Zireto">
                             </a>
                         </div>
                         <div class="sponsor col-12 col-sm-6">
@@ -341,28 +341,19 @@
                             </a>
                         </div>
                         <div class="sponsor col-12 col-sm-6">
-                            <a href="https://www.mesopotamia.ro" target="_blank">
+                            <a href="https://glovoapp.com/ro/ro/suceava/stores/mesopotamia-scv" target="_blank">
                                 <img src="img/sponsors/Meso.png" alt="Mesopotamia">
                             </a>
                         </div>
                         <div class="sponsor col-12 col-sm-6">
-                            <a href="https://urspack.com" target="_blank">
-                                <img src="img/sponsors/UrsPack.png" alt="urspack">
+                            <a href="https://www.lazzurrodiroma.com" target="_blank">
+                                <img src="img/sponsors/lazzuro.jpg" alt="L'azzurro di Roma">
                             </a>
                         </div>
-                        <div class="sponsor col-12 col-sm-6">
-                            <a href="https://www.zireto.ro" target="_blank">
-                                <img src="img/sponsors/zireto.png" alt="Zireto">
-                            </a>
-                        </div>
+
                         <div class="sponsor col-12 col-sm-6">
                             <a href="https://www.progressoneledilizia.com/" target="_blank">
                                 <img src="img/sponsors/Progresso-V2.png" alt="Progrese" style="width: 500px;">
-                            </a>
-                        </div>
-                        <div class="sponsor col-12 col-sm-6">
-                            <a href="https://ericaceramica.ro/" target="_blank">
-                                <img src="img/sponsors/erika.png" alt="Erica">
                             </a>
                         </div>
                         <div class="sponsor col-12 col-sm-6 d-block mx-auto">
@@ -370,9 +361,14 @@
                                 <img src="img/sponsors/yumm.png" alt="Yumm">
                             </a>
                         </div>
-                        <div class="sponsor col-12 col-sm-12 d-block mx-auto">
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
                             <a href="https://instagram.com/specialsisters.ro" target="_blank">
-                                <img src="img/sponsors/sisters.jpeg" alt="Yumm">
+                                <img src="img/sponsors/sisters.jpeg" alt="Special Sisters Suceava">
+                            </a>
+                        </div>
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
+                            <a href="https://www.restaurant-fabrica.ro/meniu/" target="_blank">
+                                <img src="img/sponsors/fabrica.jpg" alt="Fabrica Suceava">
                             </a>
                         </div>
                     </div>
@@ -405,7 +401,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-6 col-xs-12">
                     <div class="copyright">
-                        <p>&copy; 2024
+                        <p>&copy; 2026
                             Designed by
                             <a target="_blank" rel="nofollow" href="https://uideck.com">UIdeck</a> & implemented by <a
                                 target="_blank" rel="nofollow"

@@ -41,9 +41,9 @@
             }
         });
 
-        $('html, body').animate({
-          scrollTop: $('#final').offset().top - 75
-      }, 600);
+      //   $('html, body').animate({
+      //     scrollTop: $('#competition').offset().top - 75
+      // }, 600);
 
     });
 
