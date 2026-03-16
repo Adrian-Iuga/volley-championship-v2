@@ -91,22 +91,22 @@
                 "name": "Strugariu Filip"
             },
             {
-                "name": "Ilisoi Fineas"
-            },
-            {
-                "name": "Ilisoi Sebastian"
-            },
-            {
                 "name": "Cușnir Ruben"
             },
             {
                 "name": "Cureștiuc Larisa"
             },
             {
+                "name": "Cureștiuc David"
+            },
+        {
                 "name": "Potolinschi Matteo"
             },
             {
-                "name": "Cureștiuc David"
+                "name": "Ilisoi Fineas"
+            },
+            {
+                "name": "Ilisoi Sebastian"
             }
         ]
     },
@@ -131,6 +131,9 @@
             },
             {
                 "name": "Ciubotariu Ruben"
+            },
+            {
+                "name": "Daniliuc Ilie"
             }
         ]
     },
@@ -166,7 +169,7 @@
     },
     {
         "name": "Kenosis",
-        "logo": "img/teams-logo/TBD.png",
+        "logo": "img/teams-logo/kenosis.jpeg",
         "players": [
             {
                 "name": "Lazăr Vicol-Beniamin"
@@ -370,7 +373,7 @@
                 "name": "Francesca Niculcea"
             },
             {
-                "name": "Erik Sfichiu"
+                "name": "Chelba Emanuel"
             }
         ]
     },
