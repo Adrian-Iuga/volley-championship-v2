@@ -91,22 +91,22 @@
                 "name": "Strugariu Filip"
             },
             {
+                "name": "Ilisoi Fineas"
+            },
+            {
+                "name": "Ilisoi Sebastian"
+            },
+            {
                 "name": "Cușnir Ruben"
             },
             {
                 "name": "Cureștiuc Larisa"
             },
             {
-                "name": "Cureștiuc David"
-            },
-        {
                 "name": "Potolinschi Matteo"
             },
             {
-                "name": "Ilisoi Fineas"
-            },
-            {
-                "name": "Ilisoi Sebastian"
+                "name": "Cureștiuc David"
             }
         ]
     },
@@ -133,7 +133,7 @@
                 "name": "Ciubotariu Ruben"
             },
             {
-                "name": "Daniliuc Ilie"
+                "name": "Ilie Daniliuc"
             }
         ]
     },
@@ -301,16 +301,16 @@
         "logo": "img/teams-logo/TheChosen.jpeg",
         "players": [
             {
-                "name": "Nistiriuc Iosif"
+                "name": "Daniel Balmuș"
             },
             {
                 "name": "Nistiriuc Ruth"
             },
             {
-                "name": "Daniel Balmuș"
+                "name": "Botezatul Ioan"
             },
             {
-                "name": "Emil Havristiuc"
+                "name": "Daniel Potop"
             },
             {
                 "name": "Denis Hapca"
@@ -379,7 +379,7 @@
     },
     {
         "name": "Ark Warriors",
-        "logo": "img/teams-logo/TBD.png",
+        "logo": "img/teams-logo/ark.png",
         "players": [
             {
                 "name": "Hrincescu Matei"
@@ -398,6 +398,12 @@
             },
             {
                 "name": "Clipa Lavinia"
+            },
+            {
+                "name": "Dascal Mihai"
+            },
+            {
+                "name": "Corduneanu Constantin"
             }
         ]
     },
@@ -412,7 +418,7 @@
                 "name": "Cernat Gabriel"
             },
             {
-                "name": "Bulugu Jonatan"
+                "name": "Bulugu jonatan"
             }
         ]
     }
