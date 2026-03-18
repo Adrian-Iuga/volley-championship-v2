@@ -80,6 +80,9 @@
             },
             {
                 "name": "Samuel Dascalu"
+            },
+            {
+                "name": "Emi Cotlet"
             }
         ]
     },
@@ -220,7 +223,7 @@
     },
     {
         "name": "Alpha & Omega",
-        "logo": "img/teams-logo/AlphaAndOmega.png",
+        "logo": "img/teams-logo/alpha.jpeg",
         "players": [
             {
                 "name": "Paul Turturean"
@@ -241,7 +244,7 @@
                 "name": "Alessia Mihăescu"
             },
             {
-                "name": "Iulian Albu"
+                "name": "Iulii Albu"
             }
         ]
     },
@@ -355,7 +358,7 @@
     },
     {
         "name": "The Lions of Judah",
-        "logo": "img/teams-logo/LionsOfJudah.JPG",
+        "logo": "img/teams-logo/lions.png",
         "players": [
             {
                 "name": "Lupascu Eduard-Daniel"
@@ -409,7 +412,7 @@
     },
     {
         "name": "Family",
-        "logo": "img/teams-logo/TBD.png",
+        "logo": "img/teams-logo/ciresarii.png",
         "players": [
             {
                 "name": "Bulugu David"
