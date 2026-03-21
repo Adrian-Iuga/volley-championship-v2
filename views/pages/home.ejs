@@ -37,7 +37,7 @@
     <!-- Header Section Start -->
     <header id="hero-area">
         <!-- Navbar Start -->
-        <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar indigo">
+        <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar indigo" style="padding: 0.5rem;">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -53,6 +53,9 @@
                             <a class="nav-link page-scroll" href="#hero-area">Acasă</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link page-scroll" href="#sponsor-oficial">Sponsor Oficial</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link page-scroll" href="#competition">Competitie</a>
                         </li>
                         <li class="nav-item">
@@ -62,7 +65,7 @@
                             <a class="nav-link page-scroll" href="#details">Detalii</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link page-scroll" href="#organizers">Organizatori</a>
+                            <a class="nav-link page-scroll" href="#organizers">Sponsori</a>
                         </li>
                     </ul>
                 </div>
@@ -70,6 +73,9 @@
 
             <!-- Mobile Menu Start -->
             <ul class="mobile-menu">
+                <li>
+                    <a class="page-scroll" href="#sponsor-oficial">Sponsor Oficial</a>
+                </li>
                 <li>
                     <a class="page-scroll" href="#hero-area">Acasa</a>
                 </li>
@@ -83,7 +89,7 @@
                     <a class="page-scroll" href="#details">Detalii</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#organizers">Organizatori</a>
+                    <a class="page-scroll" href="#organizers">Sponsori</a>
                 </li>
             </ul>
             <!-- Mobile Menu End -->
@@ -109,7 +115,7 @@
     <!-- Header Section End -->
 
     <!-- Official Sponsor Section Start -->
-    <section class="section" style="background: linear-gradient(135deg, #f5f5f5 40%, #E31C23 100%); padding: 80px 0 30px 0; border-bottom: 1px solid #61D2B4;">
+    <section id="sponsor-oficial" class="section" style="background: linear-gradient(135deg, #f5f5f5 40%, #E31C23 100%); padding: 80px 0 30px 0; border-bottom: 1px solid #61D2B4;">
         <div class="container-fluid">
             <div class="section-header">
                 <h2 class="section-title wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s">Sponsor Oficial</h2>
@@ -138,10 +144,10 @@
                             <img src="img/sponsors/zireto-coffee-1.jpg" alt="Cafea Zireto" style="width: 100%; border-radius: 8px; height: auto;">
                         </div>
                         <div class="col-6 d-block m-auto">
-                            <img src="img/sponsors/zireto-coffee-2.jpg" alt="Produse Zireto" style="width: 100%; border-radius: 8px; height: auto;">
+                            <img src="img/sponsors/zireto-coffee-3.jpg" alt="Merch Zireto" style="width: 100%; border-radius: 8px; height: auto;">
                         </div>
                         <div class="col-6 d-block m-auto">
-                            <img src="img/sponsors/zireto-coffee-3.jpg" alt="Merch Zireto" style="width: 100%; border-radius: 8px; height: auto;">
+                            <img src="img/sponsors/zireto-coffee-2.jpg" alt="Produse Zireto" style="width: 100%; border-radius: 8px; height: auto;">
                         </div>
                         <div class="col-6 d-block m-auto">
                             <img src="img/sponsors/zireto-coffee-4.jpg" alt="Locații Zireto" style="width: 100%; border-radius: 8px; height: auto;">
@@ -171,11 +177,11 @@
 
             <ul class="nav nav-pills mb-3 align-items-center justify-content-center" id="pills-tab" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link active" id="teams-tab" data-toggle="pill" href="#teams" role="tab"
+                    <a class="nav-link" id="teams-tab" data-toggle="pill" href="#teams" role="tab"
                         aria-controls="teams" aria-selected="true">Echipe</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" id="schedule-tab" data-toggle="pill" href="#schedule" role="tab"
+                    <a class="nav-link active" id="schedule-tab" data-toggle="pill" href="#schedule" role="tab"
                         aria-controls="schedule" aria-selected="true">Program</a>
                 </li>
                 <!-- <li class="nav-item">
@@ -184,10 +190,10 @@
                 </li> -->
             </ul>
             <div class="tab-content" id="pills-tabContent">
-                <div class="tab-pane fade show active" id="teams" role="tabpanel" aria-labelledby="teams-tab">
+                <div class="tab-pane fade" id="teams" role="tabpanel" aria-labelledby="teams-tab">
                     <%- include('teams'); -%>
                 </div>
-                <div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
+                <div class="tab-pane fade show active" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
                     <%- include('schedule'); -%>
                 </div>
                 <!-- <div class="tab-pane fade" id="score" role="tabpanel" aria-labelledby="score-tab">
@@ -431,6 +437,31 @@
                                 <img src="img/sponsors/fabrica.jpg" alt="Fabrica Suceava">
                             </a>
                         </div>
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
+                            <a href="https://www.instagram.com/esthercakes___/" target="_blank">
+                                <img src="img/sponsors/esther.jpeg" alt="Esther">
+                            </a>
+                        </div>
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
+                            <a href="https://discosystem.ro/en/" target="_blank">
+                                <img src="img/sponsors/expertMusic.jpg" alt="Expert Music">
+                            </a>
+                        </div>
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
+                            <a href="https://www.instagram.com/reel/DSKZz7rjSzn/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" target="_blank">
+                                <img src="img/sponsors/spoleto.png" alt="Spoleto">
+                            </a>
+                        </div>
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
+                            <a href="https://www.facebook.com/oviszone/?locale=ro_RO" target="_blank">
+                                <img src="img/sponsors/ovis.png" alt="Ovis">
+                            </a>
+                        </div>
+                        <div class="sponsor col-12 col-sm-6 d-block mx-auto">
+                            <a href="https://mero.ro/p/the-barber-factory?absp=search_autocomplete&query=gafen&categories=" target="_blank">
+                                <img src="img/sponsors/gafencu.jpg" alt="Gafencu">
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -455,7 +486,7 @@
                             <a href="#competitionDetails" class="page-scroll">Detalii</a>
                         </li>
                         <li>
-                            <a href="#organizers" class="page-scroll">Organizatori</a>
+                            <a href="#organizers" class="page-scroll">Sponsori</a>
                         </li>
                     </ul>
                 </div>

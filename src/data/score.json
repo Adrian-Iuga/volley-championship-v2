@@ -1,93 +1,87 @@
 {
-    "simalateEmptySchedule": "true",
+    "simalateEmptySchedule": "false",
     "simalateEmptyResults": "true",
     "ranking": [
         {
             "title": "Grupa A",
             "teams": [
-                 {
-                    "team": "",
+                {
+                    "team": "Samson's Biceps",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Ark Warriors",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Sons of Thunder",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Kenosis",
                     "points": ""
                 }
-                               
-          
             ]
         },
         {
             "title": "Grupa B",
             "teams": [
                 {
-                    "team": "",
+                    "team": "Holy Smashers",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "3 Bursuci",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Skreen Milan",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Vestea Buna Vaslui",
                     "points": ""
                 }
-            
             ]
         },
         {
             "title": "Grupa C",
             "teams": [
-
                 {
-                    "team": "",
+                    "team": "Saint Elijah",
                     "points": ""
                 },
                 {
-                    "team": "",
-                    "points": ""
-                },
-                
-                {
-                    "team": "",
+                    "team": "The Lions of Judah",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Lion Warriors",
+                    "points": ""
+                },
+                {
+                    "team": "Alpha & Omega",
                     "points": ""
                 }
-               
             ]
         },
         {
             "title": "Grupa D",
             "teams": [
                 {
-                    "team": "",
+                    "team": "The Flood",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "Family",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "The Chosen",
                     "points": ""
                 },
                 {
-                    "team": "",
+                    "team": "King David",
                     "points": ""
                 }
             ]
@@ -95,288 +89,288 @@
     ],
     "grupStage": [
         {
-            "hour": "17:00",
+            "hour": "16:00",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "The Lions of Judah",
+            "logoTeam1": "img/teams-logo/lions.png",
+            "team2": "Alpha & Omega",
+            "logoTeam2": "img/teams-logo/alpha.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "17:35",
+            "hour": "16:35",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "Lion Warriors",
+            "logoTeam2": "img/teams-logo/LionWarriors.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "18:10",
+            "hour": "17:10",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "The Chosen",
+            "logoTeam1": "img/teams-logo/TheChosen.jpeg",
+            "team2": "King David",
+            "logoTeam2": "img/teams-logo/KingDavid.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "18:45",
+            "hour": "17:45",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "Alpha & Omega",
+            "logoTeam2": "img/teams-logo/alpha.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "19:20",
+            "hour": "18:20",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "The Lions of Judah",
+            "logoTeam1": "img/teams-logo/lions.png",
+            "team2": "Lion Warriors",
+            "logoTeam2": "img/teams-logo/LionWarriors.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "19:55",
+            "hour": "18:55",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "The Flood",
+            "logoTeam1": "img/teams-logo/Flood.png",
+            "team2": "The Chosen",
+            "logoTeam2": "img/teams-logo/TheChosen.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "20:30",
+            "hour": "19:30",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Ark Warriors",
+            "logoTeam1": "img/teams-logo/ark.png",
+            "team2": "Sons of Thunder",
+            "logoTeam2": "img/teams-logo/SonsOfThunder.jpg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "21:05",
+            "hour": "20:05",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Saint Elijah",
+            "logoTeam1": "img/teams-logo/SfIlie.png",
+            "team2": "The Lions of Judah",
+            "logoTeam2": "img/teams-logo/lions.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "21:40",
+            "hour": "20:40",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Lion Warriors",
+            "logoTeam1": "img/teams-logo/LionWarriors.png",
+            "team2": "Alpha & Omega",
+            "logoTeam2": "img/teams-logo/alpha.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "22:15",
+            "hour": "21:15",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "The Flood",
+            "logoTeam1": "img/teams-logo/Flood.png",
+            "team2": "King David",
+            "logoTeam2": "img/teams-logo/KingDavid.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "22:50",
+            "hour": "21:50",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "3 Bursuci",
+            "logoTeam1": "img/teams-logo/Bursuci.jpg",
+            "team2": "Skreen Milan",
+            "logoTeam2": "img/teams-logo/Skreen.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "23:25",
+            "hour": "22:25",
             "day": "joi",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Kenosis",
+            "logoTeam1": "img/teams-logo/kenosis.jpeg",
+            "team2": "Sons of Thunder",
+            "logoTeam2": "img/teams-logo/SonsOfThunder.jpg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "17:00",
+            "hour": "16:00",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Samson's Biceps",
+            "logoTeam1": "img/teams-logo/Samson.png",
+            "team2": "Sons of Thunder",
+            "logoTeam2": "img/teams-logo/SonsOfThunder.jpg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "17:35",
+            "hour": "16:35",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Family",
+            "logoTeam1": "img/teams-logo/ciresarii.png",
+            "team2": "The Flood",
+            "logoTeam2": "img/teams-logo/Flood.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "18:10",
+            "hour": "17:10",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Holy Smashers",
+            "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
+            "team2": "Skreen Milan",
+            "logoTeam2": "img/teams-logo/Skreen.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "18:45",
+            "hour": "17:45",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "3 Bursuci",
+            "logoTeam1": "img/teams-logo/Bursuci.jpg",
+            "team2": "Vestea Buna Vaslui",
+            "logoTeam2": "img/teams-logo/VesteaBunaVaslui.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "19:20",
+            "hour": "18:20",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Samson's Biceps",
+            "logoTeam1": "img/teams-logo/Samson.png",
+            "team2": "Ark Warriors",
+            "logoTeam2": "img/teams-logo/ark.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "19:55",
+            "hour": "18:55",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Samson's Biceps",
+            "logoTeam1": "img/teams-logo/Samson.png",
+            "team2": "Kenosis",
+            "logoTeam2": "img/teams-logo/kenosis.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "20:30",
+            "hour": "19:30",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Holy Smashers",
+            "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
+            "team2": "Vestea Buna Vaslui",
+            "logoTeam2": "img/teams-logo/VesteaBunaVaslui.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "21:05",
+            "hour": "20:05",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "The Chosen",
+            "logoTeam1": "img/teams-logo/TheChosen.jpeg",
+            "team2": "Family",
+            "logoTeam2": "img/teams-logo/ciresarii.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "21:40",
+            "hour": "20:40",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Ark Warriors",
+            "logoTeam1": "img/teams-logo/ark.png",
+            "team2": "Kenosis",
+            "logoTeam2": "img/teams-logo/kenosis.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "22:15",
+            "hour": "21:15",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Holy Smashers",
+            "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
+            "team2": "3 Bursuci",
+            "logoTeam2": "img/teams-logo/Bursuci.jpg",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "22:50",
+            "hour": "21:50",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Skreen Milan",
+            "logoTeam1": "img/teams-logo/Skreen.jpeg",
+            "team2": "Vestea Buna Vaslui",
+            "logoTeam2": "img/teams-logo/VesteaBunaVaslui.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
             "set3": ""
         },
         {
-            "hour": "23:25",
+            "hour": "22:25",
             "day": "vineri",
-            "team1": "",
-            "logoTeam1": "",
-            "team2": "",
-            "logoTeam2": "",
+            "team1": "Family",
+            "logoTeam1": "img/teams-logo/ciresarii.png",
+            "team2": "King David",
+            "logoTeam2": "img/teams-logo/KingDavid.png",
             "generalScore": "",
             "set1": "",
             "set2": "",
