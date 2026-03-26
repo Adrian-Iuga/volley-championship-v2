@@ -49,7 +49,11 @@
             "teams": [
                 {
                     "team": "Saint Elijah",
-                    "points": ""
+                    "points": "3"
+                },
+                {
+                    "team": "Alpha&Omega",
+                    "points": "3"
                 },
                 {
                     "team": "Lions of Judah",
@@ -57,10 +61,6 @@
                 },
                 {
                     "team": "Lion Warriors",
-                    "points": ""
-                },
-                {
-                    "team": "Alpha&Omega",
                     "points": ""
                 }
             ]
