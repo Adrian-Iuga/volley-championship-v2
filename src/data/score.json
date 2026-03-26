@@ -205,8 +205,8 @@
             "logoTeam1": "img/teams-logo/Flood.png",
             "team2": "King David",
             "logoTeam2": "img/teams-logo/KingDavid.png",
-            "generalScore": "",
-            "set1": "",
+            "generalScore": "0-1",
+            "set1": "10-15",
             "set2": "",
             "set3": ""
         },
