@@ -69,6 +69,10 @@
             "title": "Grupa D",
             "teams": [
                 {
+                    "team": "The Chosen",
+                    "points": "3"
+                },
+                {
                     "team": "The Flood",
                     "points": ""
                 },
@@ -76,10 +80,7 @@
                     "team": "Family",
                     "points": ""
                 },
-                {
-                    "team": "The Chosen",
-                    "points": ""
-                },
+                
                 {
                     "team": "King David",
                     "points": ""
