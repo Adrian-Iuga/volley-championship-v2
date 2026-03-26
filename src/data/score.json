@@ -28,13 +28,14 @@
             "title": "Grupa B",
             "teams": [
                 {
+                    "team": "3 Bursuci",
+                    "points": "3"
+                },
+                {
                     "team": "Holy Smashers",
                     "points": ""
                 },
-                {
-                    "team": "3 Bursuci",
-                    "points": ""
-                },
+                
                 {
                     "team": "Skreen Milan",
                     "points": ""
@@ -219,7 +220,7 @@
             "team2": "Skreen Milan",
             "logoTeam2": "img/teams-logo/Skreen.jpeg",
             "generalScore": "2-0",
-            "set1": "15-7",
+            "set1": "15-9",
             "set2": "15-7",
             "set3": ""
         },
