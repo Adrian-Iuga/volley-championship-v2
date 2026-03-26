@@ -6,13 +6,14 @@
             "title": "Grupa A",
             "teams": [
                 {
+                    "team": "Ark Warriors",
+                    "points": "3"
+                },
+                {
                     "team": "Samson Biceps",
                     "points": ""
                 },
-                {
-                    "team": "Ark Warriors",
-                    "points": ""
-                },
+                
                 {
                     "team": "Son of Thunder",
                     "points": ""
