@@ -6,6 +6,10 @@
             "title": "Grupa A",
             "teams": [
                 {
+                    "team": "Kenosis",
+                    "points": "3"
+                },
+                {
                     "team": "Ark Warriors",
                     "points": "3"
                 },
@@ -18,10 +22,7 @@
                     "team": "Son of Thunder",
                     "points": ""
                 },
-                {
-                    "team": "Kenosis",
-                    "points": ""
-                }
+                
             ]
         },
         {
@@ -231,9 +232,9 @@
             "logoTeam1": "img/teams-logo/kenosis.jpeg",
             "team2": "Son of Thunder",
             "logoTeam2": "img/teams-logo/SonsOfThunder.jpg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-7",
-            "set2": "",
+            "set2": "15-9",
             "set3": ""
         },
         {
