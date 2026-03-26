@@ -70,13 +70,14 @@
             "title": "Grupa D",
             "teams": [
                 {
+                    "team": "The Flood",
+                    "points": "6"
+                },
+                {
                     "team": "The Chosen",
                     "points": "3"
                 },
-                {
-                    "team": "The Flood",
-                    "points": "3"
-                },
+                
                 {
                     "team": "Family",
                     "points": ""
