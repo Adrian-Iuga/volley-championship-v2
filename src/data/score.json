@@ -98,7 +98,7 @@
             "generalScore": "1-2",
             "set1": "11-15",
             "set2": "17-15",
-            "set3": "15-13"
+            "set3": "13-15"
         },
         {
             "hour": "16:35",
@@ -106,10 +106,10 @@
             "team1": "Saint Elijah",
             "logoTeam1": "img/teams-logo/SfIlie.png",
             "team2": "Lion Warriors",
-            "logoTeam2": "img/teams-logo/LionWarriors.png",
-            "generalScore": "",
+            "logoTeam2": "img/teams-logo/LionWarriors.jpeg",
+            "generalScore": "2-0",
             "set1": "15-11",
-            "set2": "",
+            "set2": "15-5",
             "set3": ""
         },
         {
@@ -142,7 +142,7 @@
             "team1": "Lions of Judah",
             "logoTeam1": "img/teams-logo/lions.png",
             "team2": "Lion Warriors",
-            "logoTeam2": "img/teams-logo/LionWarriors.png",
+            "logoTeam2": "img/teams-logo/LionWarriors.jpeg",
             "generalScore": "",
             "set1": "",
             "set2": "",
@@ -188,7 +188,7 @@
             "hour": "20:40",
             "day": "joi",
             "team1": "Lion Warriors",
-            "logoTeam1": "img/teams-logo/LionWarriors.png",
+            "logoTeam1": "img/teams-logo/LionWarriors.jpeg",
             "team2": "Alpha&Omega",
             "logoTeam2": "img/teams-logo/alpha.jpeg",
             "generalScore": "",
