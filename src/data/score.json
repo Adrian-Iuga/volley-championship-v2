@@ -19,7 +19,7 @@
                 },
                 {
                     "team": "Son of Thunder",
-                    "points": ""
+                    "points": "0"
                 }
             ]
         },
@@ -41,9 +41,8 @@
                 
                 {
                     "team": "Skreen Milan",
-                    "points": ""
-                },
-                
+                    "points": "0"
+                }
             ]
         },
         {
@@ -63,7 +62,7 @@
                 },
                 {
                     "team": "Lion Warriors",
-                    "points": ""
+                    "points": "0"
                 }
             ]
         },
@@ -81,12 +80,12 @@
                 
                 {
                     "team": "Family",
-                    "points": ""
+                    "points": "0"
                 },
                 
                 {
                     "team": "King David",
-                    "points": ""
+                    "points": "0"
                 }
             ]
         }
