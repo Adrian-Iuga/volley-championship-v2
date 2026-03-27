@@ -32,7 +32,7 @@
                 },
                 {
                     "team": "Holy Smashers",
-                    "points": ""
+                    "points": "3"
                 },
                 
                 {
@@ -266,10 +266,10 @@
             "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
             "team2": "Skreen Milan",
             "logoTeam2": "img/teams-logo/Skreen.jpeg",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "12-15",
             "set2": "15-6",
-            "set3": ""
+            "set3": "16-14"
         },
         {
             "hour": "17:45",
