@@ -71,7 +71,7 @@
             "teams": [
                 {
                     "team": "The Flood",
-                    "points": "6"
+                    "points": "9"
                 },
                 {
                     "team": "The Chosen",
@@ -254,9 +254,9 @@
             "logoTeam1": "img/teams-logo/ciresarii.png",
             "team2": "The Flood",
             "logoTeam2": "img/teams-logo/Flood.png",
-            "generalScore": "0-1",
+            "generalScore": "0-2",
             "set1": "8-15",
-            "set2": "",
+            "set2": "12-15",
             "set3": ""
         },
         {
