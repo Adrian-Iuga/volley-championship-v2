@@ -6,6 +6,10 @@
             "title": "Grupa A",
             "teams": [
                 {
+                    "team": "Samson Biceps",
+                    "points": "3"
+                },
+                {
                     "team": "Kenosis",
                     "points": "3"
                 },
@@ -13,11 +17,6 @@
                     "team": "Ark Warriors",
                     "points": "3"
                 },
-                {
-                    "team": "Samson Biceps",
-                    "points": ""
-                },
-                
                 {
                     "team": "Son of Thunder",
                     "points": ""
@@ -243,9 +242,9 @@
             "logoTeam1": "img/teams-logo/Samson.png",
             "team2": "Son of Thunder",
             "logoTeam2": "img/teams-logo/SonsOfThunder.jpg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "15-8",
-            "set2": "",
+            "set2": "15-3",
             "set3": ""
         },
         {
