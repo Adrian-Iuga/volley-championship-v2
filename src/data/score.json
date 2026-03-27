@@ -9,14 +9,15 @@
                     "team": "Samson Biceps",
                     "points": "9"
                 },
+                 {
+                    "team": "Ark Warriors",
+                    "points": "6"
+                },
                 {
                     "team": "Kenosis",
                     "points": "3"
                 },
-                {
-                    "team": "Ark Warriors",
-                    "points": "3"
-                },
+               
                 {
                     "team": "Son of Thunder",
                     "points": "0"
@@ -338,9 +339,9 @@
             "logoTeam1": "img/teams-logo/ark.png",
             "team2": "Kenosis",
             "logoTeam2": "img/teams-logo/kenosis.jpeg",
-            "generalScore": "1-0",
+            "generalScore": "2-0",
             "set1": "23-21",
-            "set2": "",
+            "set2": "15-9",
             "set3": ""
         },
         {
