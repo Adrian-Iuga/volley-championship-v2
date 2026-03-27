@@ -27,6 +27,10 @@
             "title": "Grupa B",
             "teams": [
                 {
+                    "team": "VB Vaslui",
+                    "points": "3"
+                },
+                {
                     "team": "3 Bursuci",
                     "points": "3"
                 },
@@ -39,10 +43,7 @@
                     "team": "Skreen Milan",
                     "points": ""
                 },
-                {
-                    "team": "VB Vaslui",
-                    "points": ""
-                }
+                
             ]
         },
         {
