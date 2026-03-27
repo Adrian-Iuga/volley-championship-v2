@@ -81,7 +81,7 @@
                 
                 {
                     "team": "Family",
-                    "points": "0"
+                    "points": "3"
                 },
                 
                 {
@@ -375,10 +375,10 @@
             "logoTeam1": "img/teams-logo/ciresarii.png",
             "team2": "King David",
             "logoTeam2": "img/teams-logo/KingDavid.png",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "24-22",
             "set2": "14-16",
-            "set3": ""
+            "set3": "17-15"
         }
     ],
     "quarter": [
