@@ -75,7 +75,7 @@
                 },
                 {
                     "team": "The Chosen",
-                    "points": "3"
+                    "points": "6"
                 },
                 
                 {
@@ -326,10 +326,10 @@
             "logoTeam1": "img/teams-logo/TheChosen.jpeg",
             "team2": "Family",
             "logoTeam2": "img/teams-logo/ciresarii.png",
-            "generalScore": "1-1",
+            "generalScore": "2-1",
             "set1": "16-14",
             "set2": "10-15",
-            "set3": ""
+            "set3": "15-5"
         },
         {
             "hour": "20:40",
