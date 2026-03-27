@@ -33,7 +33,7 @@
                 },
                 {
                     "team": "3 Bursuci",
-                    "points": "3"
+                    "points": "6"
                 },
                 {
                     "team": "Holy Smashers",
@@ -351,10 +351,10 @@
             "logoTeam1": "img/teams-logo/HolySmashers.jpeg",
             "team2": "3 Bursuci",
             "logoTeam2": "img/teams-logo/Bursuci.jpg",
-            "generalScore": "1-1",
+            "generalScore": "1-2",
             "set1": "16-14",
             "set2": "6-15",
-            "set3": ""
+            "set3": "11-15"
         },
         {
             "hour": "21:50",
